@@ -1,0 +1,242 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_with_text_ACyRdT": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_yyRUVg": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Archivépke<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_KffpWm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Archive 「記録アーカイブ」と<br\/>「épke: études for people with a keen sense(鋭い感覚で人を研究する)」の合成語 Archivépke<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yyRUVg",
+        "text_KffpWm"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/22.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_xc7yiR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XhNbUB": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Surve Human Needs<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_6K6kmz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>私たちは人々の平凡な日常を研究し、<br\/>彼らの日常を一歩高めたいと考えました。<br\/>「美しさをarchivingする存在」としての<br\/>ブランドを考え、<br\/>ブランドネームが完成しました。<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XhNbUB",
+        "text_6K6kmz"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_zyDpY4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_epQLiX": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Why We Exist<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_HCWytV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>私たちはあなたのWeekday、<br\/>Weekendを共にするブランドです。<br\/>いつも堂々と、自分を愛し、自分を磨く。<br\/>厳格でありながら自由で、今を生きているあなたのためのブランドです。<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_epQLiX",
+        "text_HCWytV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_Jrc4yi": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_taxfDe": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>What People Seek For<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_PUGRiL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>似合わない組み合わせ。<br\/>しかし、今必要な組み合わせ<br\/>私たちは、スタイリッシュでクールでありながら快適な靴を作りたいと考えました。<br\/>平凡な日常の中で自然なクールさを求めるつまり、Effortlessly Cool Attitudeを追求する。<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_taxfDe",
+        "text_PUGRiL"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_m6qWML": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/4.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_with_text_GATAqH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_FKTjmk": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>How to show<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_FaxCgT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>シンプルでクラシカルなデザイン、硬い芯を取り除いたソフトレザー、調和のとれたカラートーンで、スタイリッシュでありながら活用度の高い<br\/>エッセンシャルアイテムを完成させました。<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FKTjmk",
+        "text_FaxCgT"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/5.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_CcyUNP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VmFgyA": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Imagine better<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_jbTECh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>自分が履きたい靴、<br\/>自分が買いたいバッグを作るために。<br\/>些細なように見える小さなディテールにも私たちの悩みを込めて、<br\/>これからもあなたの悩みが<br\/>私たちの悩みになるように<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VmFgyA",
+        "text_jbTECh"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_ACyRdT",
+    "rich_text_xc7yiR",
+    "rich_text_zyDpY4",
+    "image_with_text_Jrc4yi",
+    "image_banner_m6qWML",
+    "image_with_text_GATAqH",
+    "rich_text_CcyUNP"
+  ]
+}
