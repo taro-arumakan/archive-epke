@@ -82,6 +82,12 @@
         "slide_HtkCw8",
         "slide_tDkcxc"
       ],
+      "custom_css": [
+        ".slideshow__controls {border: 0;}",
+        ".slider-button {color: rgba(var(--color-foreground), 0.2); height: 30px;}",
+        ".slider-counter__link--active.slider-counter__link--dots .dot {background-color: rgb(var(--color-foreground), 0.2); border: 0.1rem solid rgba(var(--color-foreground), 0.1);}",
+        ".slider-counter__link--dots .dot {width: 0.5rem; height: 0.5rem; border: 0.1rem solid rgba(var(--color-foreground), 0.1);}"
+      ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
@@ -95,6 +101,9 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "custom_css": [
+        ".collection__title.title-wrapper {text-align: center;}"
+      ],
       "settings": {
         "title": "NEW ARRIVAL",
         "heading_size": "h2",
@@ -129,9 +138,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/OVBAX23001BLK_LM4.jpg",
             "caption": "",
-            "heading": "<strong>Collection<\/strong>",
+            "heading": "COLLECTION",
             "text": "",
-            "button_label": "VIEW MORE",
+            "button_label": "View More",
             "button_link": "shopify:\/\/pages\/archivepke-collection"
           }
         },
@@ -163,6 +172,10 @@
         "row_3gEhjQ",
         "row_9gch36"
       ],
+      "custom_css": [
+        "h1,.h1 {font-size: calc(var(--font-heading-scale) * 2rem);}",
+        ".collapse-padding .image-with-text__grid .image-with-text__content {align-items: center;}"
+      ],
       "settings": {
         "image_height": "medium",
         "desktop_image_width": "medium",
@@ -170,7 +183,7 @@
         "text_style": "body",
         "button_style": "secondary",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "image_layout": "alternate-left",
         "section_color_scheme": "",
         "row_color_scheme": "",
