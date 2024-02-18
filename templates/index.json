@@ -173,7 +173,6 @@
         "row_9gch36"
       ],
       "custom_css": [
-        "h1,.h1 {font-size: calc(var(--font-heading-scale) * 2rem);}",
         ".collapse-padding .image-with-text__grid .image-with-text__content {align-items: center;}"
       ],
       "settings": {
