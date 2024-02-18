@@ -629,7 +629,7 @@
           "label": "Number of columns on desktop"
         },
         "show_view_all": {
-          "label": "Enable \"View all\" button if list includes more collections than shown"
+          "label": "Enable \"View All\" button if list includes more collections than shown"
         },
         "header_mobile": {
           "content": "Mobile Layout"
@@ -695,7 +695,7 @@
           "label": "Number of columns on desktop"
         },
         "show_view_all": {
-          "label": "Enable \"View all\" button if blog includes more blog posts than shown"
+          "label": "Enable \"View All\" button if blog includes more blog posts than shown"
         },
         "show_image": {
           "label": "Show featured image",
@@ -746,10 +746,10 @@
           "label": "Number of columns on desktop"
         },
         "show_view_all": {
-          "label": "Enable \"View all\" if collection has more products than shown"
+          "label": "Enable \"View All\" if collection has more products than shown"
         },
         "view_all_style": {
-          "label": "\"View all\" style",
+          "label": "\"View All\" style",
           "options__1": {
             "label": "Link"
           },
