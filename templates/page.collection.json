@@ -25,6 +25,7 @@
       "block_order": [
         "buttons_mKqMKR"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/1.png",
         "image_overlay_opacity": 0,
