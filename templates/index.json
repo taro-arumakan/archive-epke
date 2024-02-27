@@ -67,7 +67,8 @@
         ".slideshow__controls {border: 0;}",
         ".slider-button {color: rgba(var(--color-foreground), 0.2); height: 30px;}",
         ".slider-counter__link--active.slider-counter__link--dots .dot {background-color: rgb(var(--color-foreground), 0.2); border: 0.1rem solid rgba(var(--color-foreground), 0.1);}",
-        ".slider-counter__link--dots .dot {width: 0.5rem; height: 0.5rem; border: 0.1rem solid rgba(var(--color-foreground), 0.1);}"
+        ".slider-counter__link--dots .dot {width: 0.5rem; height: 0.5rem; border: 0.1rem solid rgba(var(--color-foreground), 0.1);}",
+        ".slideshow__autoplay {display: none;}"
       ],
       "settings": {
         "layout": "full_bleed",
