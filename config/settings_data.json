@@ -113,12 +113,14 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
-    "currency_code_enabled": true,
+    "currency_code_enabled": false,
     "cart_type": "page",
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
     "cart_color_scheme": "background-1",
+    "checkout_logo_image": "shopify:\/\/shop_images\/9FADF3A7-D7E6-4DCF-A1FB-2695A912C7D9.png",
+    "checkout_input_background_color_mode": "white",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
