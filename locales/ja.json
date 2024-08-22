@@ -108,7 +108,7 @@
     "product": {
       "add_to_cart": "カートに追加する",
       "description": "商品説明",
-      "on_sale": "セール",
+      "on_sale": "SALE",
       "product_variants": "商品バリエーション",
       "quantity": {
         "label": "数量",
@@ -128,7 +128,7 @@
         "unit_price": "単価"
       },
       "share": "この商品を共有する",
-      "sold_out": "売り切れ",
+      "sold_out": "Sold Out",
       "unavailable": "利用できません",
       "vendor": "販売元",
       "video_exit_message": "{{ title }}は同じウィンドウの全画面表示ビデオで開きます。",
