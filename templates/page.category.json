@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -14,7 +23,7 @@
         "heading_YmijFp": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Category<\/strong>",
+            "heading": "<strong>Category</strong>",
             "heading_size": "h0"
           }
         }
@@ -37,34 +46,34 @@
         "row_nyNmin": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/OCBLX23001BLK_LM1_2.jpg",
+            "image": "shopify://shop_images/OCBLX23001BLK_LM1_2.jpg",
             "caption": "",
-            "heading": "<strong>Fabric bag<\/strong>",
+            "heading": "<strong>Fabric bag</strong>",
             "text": "",
             "button_label": "View More",
-            "button_link": "shopify:\/\/collections\/fabric-bag"
+            "button_link": "shopify://collections/fabric-bag"
           }
         },
         "row_fQxDUG": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/OVBAX23001BLK_LM1_1.jpg",
+            "image": "shopify://shop_images/OVBAX23001BLK_LM1_1.jpg",
             "caption": "",
-            "heading": "<strong>Leather bag<\/strong>",
+            "heading": "<strong>Leather bag</strong>",
             "text": "",
             "button_label": "View More",
-            "button_link": "shopify:\/\/collections\/leather-bag"
+            "button_link": "shopify://collections/leather-bag"
           }
         },
         "row_Lwgpby": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/OVBAX23019BLK_LZ1.jpg",
+            "image": "shopify://shop_images/OVBAX23019BLK_LZ1.jpg",
             "caption": "",
-            "heading": "<strong>Nylon bag<\/strong>",
+            "heading": "<strong>Nylon bag</strong>",
             "text": "",
             "button_label": "View More",
-            "button_link": "shopify:\/\/collections\/nylon-bag"
+            "button_link": "shopify://collections/nylon-bag"
           }
         }
       },

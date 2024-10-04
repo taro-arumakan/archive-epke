@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -11,7 +20,7 @@
     "image_banner_hRWWe6": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Web_1920_2_2x_d1e9501a-ec71-44f7-b108-8d6a2712fb3d.png",
+        "image": "shopify://shop_images/Web_1920_2_2x_d1e9501a-ec71-44f7-b108-8d6a2712fb3d.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -27,7 +36,7 @@
     "image_banner_UNGX3f": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Web_1920_3_2x_d5e017e3-ed7d-4925-861c-98f3043d9d20.png",
+        "image": "shopify://shop_images/Web_1920_3_2x_d5e017e3-ed7d-4925-861c-98f3043d9d20.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -43,7 +52,7 @@
     "image_banner_x4qdEC": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Web_1920_4_2x_a30717db-ea65-4690-8040-94d03fc52da9.png",
+        "image": "shopify://shop_images/Web_1920_4_2x_a30717db-ea65-4690-8040-94d03fc52da9.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -59,7 +68,7 @@
     "image_banner_rrVgkC": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Web_1920_5_2x_8c291d28-d68e-4442-81e5-8a4a39b1096e.png",
+        "image": "shopify://shop_images/Web_1920_5_2x_8c291d28-d68e-4442-81e5-8a4a39b1096e.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -75,7 +84,7 @@
     "image_banner_yY6Uty": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Web_1920_6_2x_9150f94e-c606-46b1-870e-65c20a651857.png",
+        "image": "shopify://shop_images/Web_1920_6_2x_9150f94e-c606-46b1-870e-65c20a651857.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -91,7 +100,7 @@
     "image_banner_ykPzYC": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Web_1920_7_2x_96124cea-b04c-4ea7-96c2-00208f63b900.jpg",
+        "image": "shopify://shop_images/Web_1920_7_2x_96124cea-b04c-4ea7-96c2-00208f63b900.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -107,7 +116,7 @@
     "image_banner_ttEJqn": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Web_1920_8_2x_bba7267e-04ca-42b4-908e-cafb4f1cde8c.png",
+        "image": "shopify://shop_images/Web_1920_8_2x_bba7267e-04ca-42b4-908e-cafb4f1cde8c.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -123,7 +132,7 @@
     "image_banner_7W3ReJ": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Web_1920_9_2x_34658db8-b2e7-46ed-a665-2929c5ab8432.png",
+        "image": "shopify://shop_images/Web_1920_9_2x_34658db8-b2e7-46ed-a665-2929c5ab8432.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -142,7 +151,7 @@
         ".banner {margin-bottom: 48px;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Web_1920_10_2x_f24dcbb2-0cb3-41a9-a567-8f1330b51e84.png",
+        "image": "shopify://shop_images/Web_1920_10_2x_f24dcbb2-0cb3-41a9-a567-8f1330b51e84.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",

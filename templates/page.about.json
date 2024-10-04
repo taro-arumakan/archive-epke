@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -11,7 +20,7 @@
     "image_banner_LA4p6z": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/1_772022bb-2681-4016-bd65-e474fb417545.jpg",
+        "image": "shopify://shop_images/1_772022bb-2681-4016-bd65-e474fb417545.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -30,7 +39,7 @@
         "text_VTGjGc": {
           "type": "text",
           "settings": {
-            "text": "<h5>Archive<\/h5><h5>記録<\/h5><h5>épke<\/h5><h5>études for people with a keen sense<\/h5><h5>（鋭い感覚で人を研究する）<\/h5><h5>ウィークデイもウィークエンドも。<\/h5><h5>平凡な日常に一歩進んだ感性を。<\/h5><h5>デザイン性を求めながら使い勝手に妥協せず、<\/h5><h5>シーンを選ばず活躍する。<\/h5><h5>いつも堂々と、自分を愛し、<\/h5><h5>自然体でいながら、今よりも一歩前へ。<\/h5><h5>Archivépkeはあなたの毎日を彩る<\/h5><h5>エッセンシャルなアイテムを提案します。<\/h5>"
+            "text": "<h5>Archive</h5><h5>記録</h5><h5>épke</h5><h5>études for people with a keen sense</h5><h5>（鋭い感覚で人を研究する）</h5><h5>ウィークデイもウィークエンドも。</h5><h5>平凡な日常に一歩進んだ感性を。</h5><h5>デザイン性を求めながら使い勝手に妥協せず、</h5><h5>シーンを選ばず活躍する。</h5><h5>いつも堂々と、自分を愛し、</h5><h5>自然体でいながら、今よりも一歩前へ。</h5><h5>Archivépkeはあなたの毎日を彩る</h5><h5>エッセンシャルなアイテムを提案します。</h5>"
           }
         }
       },
@@ -52,7 +61,7 @@
         "text_P9HRFz": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Archivépke Atelier<br\/>In Seoul forest<\/strong><\/p>"
+            "text": "<p><strong>Archivépke Atelier<br/>In Seoul forest</strong></p>"
           }
         }
       },
@@ -71,7 +80,7 @@
     "image_banner_GtJtNT": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Web_1920_1.png",
+        "image": "shopify://shop_images/Web_1920_1.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -90,7 +99,7 @@
         "text_rqkE9G": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Archivépke Home<br\/>In Busan<\/strong><\/p>"
+            "text": "<p><strong>Archivépke Home<br/>In Busan</strong></p>"
           }
         }
       },
@@ -115,7 +124,7 @@
         ".banner {margin-bottom: 48px;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Web_1920_2.png",
+        "image": "shopify://shop_images/Web_1920_2.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",

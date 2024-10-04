@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -37,7 +46,7 @@
         "slide_zPWtDe": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2.png",
+            "image": "shopify://shop_images/2.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -70,8 +79,8 @@
     "image_banner_ttEJqn": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/13.png",
-        "image_2": "shopify:\/\/shop_images\/2_c5359537-409b-41a0-97f4-7d3e29016172.png",
+        "image": "shopify://shop_images/13.png",
+        "image_2": "shopify://shop_images/2_c5359537-409b-41a0-97f4-7d3e29016172.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -87,8 +96,8 @@
     "image_banner_7W3ReJ": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/16.png",
-        "image_2": "shopify:\/\/shop_images\/14.png",
+        "image": "shopify://shop_images/16.png",
+        "image_2": "shopify://shop_images/14.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -104,7 +113,7 @@
     "image_banner_FVE6Cz": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/12.png",
+        "image": "shopify://shop_images/12.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -120,8 +129,8 @@
     "image_banner_ykPzYC": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/5_37af275f-e576-423a-91c5-ab9abd8c9a0f.png",
-        "image_2": "shopify:\/\/shop_images\/4_81b240b5-f17f-4ecb-8f62-a102a97dbed2.png",
+        "image": "shopify://shop_images/5_37af275f-e576-423a-91c5-ab9abd8c9a0f.png",
+        "image_2": "shopify://shop_images/4_81b240b5-f17f-4ecb-8f62-a102a97dbed2.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -137,8 +146,8 @@
     "image_banner_CWtaTP": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/9_08e3bfa2-dd53-4ace-9257-2492b77558db.png",
-        "image_2": "shopify:\/\/shop_images\/7.png",
+        "image": "shopify://shop_images/9_08e3bfa2-dd53-4ace-9257-2492b77558db.png",
+        "image_2": "shopify://shop_images/7.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -154,7 +163,7 @@
     "image_banner_rgHJRC": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/3.png",
+        "image": "shopify://shop_images/3.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -185,7 +194,7 @@
           "type": "button",
           "settings": {
             "button_label": "SPRING SUMMER 2024",
-            "button_link": "shopify:\/\/pages\/spring-summer-2024",
+            "button_link": "shopify://pages/spring-summer-2024",
             "button_style_secondary": false
           }
         }
@@ -194,7 +203,7 @@
         "button_fWeD9Q"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/9.png",
+        "image": "shopify://shop_images/9.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",

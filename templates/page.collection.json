@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -14,7 +23,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "FALL WINTER 2023",
-            "button_link_1": "shopify:\/\/pages\/fall-winter-2023",
+            "button_link_1": "shopify://pages/fall-winter-2023",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -27,7 +36,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/1.png",
+        "image": "shopify://shop_images/1.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -47,7 +56,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "SPRING SUMMER 2023",
-            "button_link_1": "shopify:\/\/pages\/spring-summer-2024",
+            "button_link_1": "shopify://pages/spring-summer-2024",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -59,7 +68,7 @@
         "buttons_PJEgP9"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/9.png",
+        "image": "shopify://shop_images/9.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
