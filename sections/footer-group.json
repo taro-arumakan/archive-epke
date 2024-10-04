@@ -26,7 +26,7 @@
         "link_list_eGLQhE"
       ],
       "custom_css": [
-        ".footer__content-top {padding-bottom: 0rem;}",
+        ".footer__content-top {padding-top: 2.3rem; padding-bottom: 0rem;}",
         ".footer-block__details-content {margin-bottom: 0;}",
         ".footer__content-bottom {border-top: 0; padding-top: 0;}",
         ".grid {margin-bottom: 0;}",
