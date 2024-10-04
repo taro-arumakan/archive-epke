@@ -1,0 +1,276 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "title": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+            "blog_show_date": true,
+            "blog_show_author": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "image_banner_M7gDz4": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/2025SS_EXHIBITION_SNAP_bccb8d24-ccfd-4fd6-97d0-efd5736ed2e6.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_FJfFKG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eMxdHM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_nQQP8a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ここにキャプションが入ります</p><p>ここにキャプションが入ります<br/>ここにキャプションが入ります<br/>ここにキャプションが入ります<br/>ここにキャプションが入ります</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eMxdHM",
+        "text_nQQP8a"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_Hb7iXC": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/MYA2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_9yA9Mh": {
+      "type": "image-banner",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MYA_CAPTION_871de2cf-b527-4775-9ba4-cf8b4a5f767d.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_7CkgnH": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/MEI_TANAKA.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_7qyGE7": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/MYA_CAPTION_871de2cf-b527-4775-9ba4-cf8b4a5f767d.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_9pn7kf": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/AKI_ISHIKURO.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_34VgQJ": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/MYA_CAPTION_871de2cf-b527-4775-9ba4-cf8b4a5f767d.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_K3w3cw": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/AOI_KANAZAWA_6196d3e9-271c-434a-b0ef-b7d2db9fcf89.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_TncYeQ": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/MYA_CAPTION_871de2cf-b527-4775-9ba4-cf8b4a5f767d.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_xX4BXW": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/LENA_HENZA.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_MdgGWA": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/MYA_CAPTION_871de2cf-b527-4775-9ba4-cf8b4a5f767d.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_M7gDz4",
+    "rich_text_FJfFKG",
+    "image_banner_Hb7iXC",
+    "image_banner_9yA9Mh",
+    "image_banner_7CkgnH",
+    "image_banner_7qyGE7",
+    "image_banner_9pn7kf",
+    "image_banner_34VgQJ",
+    "image_banner_K3w3cw",
+    "image_banner_TncYeQ",
+    "image_banner_xX4BXW",
+    "image_banner_MdgGWA"
+  ]
+}
