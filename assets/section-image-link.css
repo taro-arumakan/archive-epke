@@ -4,6 +4,9 @@
   flex-direction: column;
   justify-content: center;
 }
+.image-link a {
+  display: flex !important;
+}
 
 .image-link__box {
   text-align: center;
@@ -476,5 +479,6 @@
 .media :not(.zoom):not(.deferred-media__poster-button),
 .media model-viewer {
   /* max-width: 1024px; */
-  max-height: 1536px;
+  max-height: 1280px;
+  height: 100%;
 }
