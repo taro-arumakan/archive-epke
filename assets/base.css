@@ -593,9 +593,9 @@ details > * {
   --duration-announcement-bar: 250ms;
   --duration-medium: 300ms;
   --duration-long: 500ms;
-  --duration-extra-long: 1000ms;
+  --duration-extra-long: 800ms;
   --duration-extended: 3s;
-  --ease-out-slow: cubic-bezier(0, 0, 0.3, 1);
+  --ease-out-slow: cubic-bezier(0, 0, 0.7, 1);
   --animation-slide-in: slideIn var(--duration-extra-long) var(--ease-out-slow) forwards;
   --animation-fade-in: fadeIn var(--duration-extra-long) var(--ease-out-slow);
 }
