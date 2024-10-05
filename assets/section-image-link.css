@@ -478,7 +478,7 @@
 
 .media :not(.zoom):not(.deferred-media__poster-button),
 .media model-viewer {
-  /* max-width: 1024px; */
   max-height: 1280px;
   height: 100%;
+  width: 100%;
 }
