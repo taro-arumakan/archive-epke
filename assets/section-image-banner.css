@@ -2,6 +2,7 @@
   display: flex;
   position: relative;
   flex-direction: column;
+  justify-content: center;
 }
 
 .banner__box {
@@ -161,7 +162,11 @@
   position: absolute;
   left: 0;
   top: 0;
+  object-fit: contain;
   width: 100%;
+}
+.media img {
+  object-fit: contain;
 }
 
 .banner__media-half {
@@ -374,7 +379,7 @@
 
 .banner::after,
 .banner__media::after {
-  /* content: ''; */
+  content: '';
   position: absolute;
   top: 0;
   background: #000000;
