@@ -50,6 +50,9 @@
     },
     "image_banner_M7gDz4": {
       "type": "image-banner",
+      "custom_css": [
+        ".banner__media {left: unset; max-width: 1024px;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/2025SS_EXHIBITION_SNAP_bccb8d24-ccfd-4fd6-97d0-efd5736ed2e6.png",
         "image_overlay_opacity": 0,
@@ -98,7 +101,7 @@
     "image_banner_Hb7iXC": {
       "type": "image-banner",
       "custom_css": [
-        ".banner__media {z-index: 3;}"
+        ".banner__media {z-index: 3; left: unset; max-width: 1024px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/MYA_4a4c537a-1b68-4707-bc5c-d885c6869157.png",
@@ -118,7 +121,7 @@
     "image_banner_9yA9Mh": {
       "type": "image-banner",
       "custom_css": [
-
+        ".banner__media {z-index: 3; left: unset; max-width: 1024px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/MYA_CAPTION_871de2cf-b527-4775-9ba4-cf8b4a5f767d.png",
@@ -138,7 +141,7 @@
     "image_banner_7CkgnH": {
       "type": "image-banner",
       "custom_css": [
-        ".banner__media {z-index: 3;}"
+        ".banner__media {z-index: 3; left: unset; max-width: 1024px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/MEI_TANAKA.png",
@@ -158,7 +161,7 @@
     "image_banner_7qyGE7": {
       "type": "image-banner",
       "custom_css": [
-
+        ".banner__media {z-index: 3; left: unset; max-width: 1024px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/MYA_CAPTION_871de2cf-b527-4775-9ba4-cf8b4a5f767d.png",
@@ -178,7 +181,7 @@
     "image_banner_9pn7kf": {
       "type": "image-banner",
       "custom_css": [
-        ".banner__media {z-index: 3;}"
+        ".banner__media {z-index: 3; left: unset; max-width: 1024px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/AKI_ISHIKURO.png",
@@ -198,7 +201,7 @@
     "image_banner_34VgQJ": {
       "type": "image-banner",
       "custom_css": [
-
+        ".banner__media {z-index: 3; left: unset; max-width: 1024px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/MYA_CAPTION_871de2cf-b527-4775-9ba4-cf8b4a5f767d.png",
@@ -218,7 +221,7 @@
     "image_banner_K3w3cw": {
       "type": "image-banner",
       "custom_css": [
-        ".banner__media {z-index: 3;}"
+        ".banner__media {z-index: 3; left: unset; max-width: 1024px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/AOI_KANAZAWA_6196d3e9-271c-434a-b0ef-b7d2db9fcf89.png",
@@ -238,7 +241,7 @@
     "image_banner_TncYeQ": {
       "type": "image-banner",
       "custom_css": [
-
+        ".banner__media {z-index: 3; left: unset; max-width: 1024px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/MYA_CAPTION_871de2cf-b527-4775-9ba4-cf8b4a5f767d.png",
@@ -258,7 +261,7 @@
     "image_banner_xX4BXW": {
       "type": "image-banner",
       "custom_css": [
-        ".banner__media {z-index: 3;}"
+        ".banner__media {z-index: 3; left: unset; max-width: 1024px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/LENA_HENZA_a31ee307-4b89-4501-8600-b46be1a9bb1a.png",
@@ -278,7 +281,7 @@
     "image_banner_MdgGWA": {
       "type": "image-banner",
       "custom_css": [
-
+        ".banner__media {z-index: 3; left: unset; max-width: 1024px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/MYA_CAPTION_871de2cf-b527-4775-9ba4-cf8b4a5f767d.png",
