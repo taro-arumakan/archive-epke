@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -65,6 +65,7 @@
       "blocks": {
         "heading_eMxdHM": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Talk about your brand",
             "heading_size": "h1"
@@ -73,7 +74,7 @@
         "text_nQQP8a": {
           "type": "text",
           "settings": {
-            "text": "<p>ここにキャプションが入ります</p><p>ここにキャプションが入ります<br/>ここにキャプションが入ります<br/>ここにキャプションが入ります<br/>ここにキャプションが入ります</p>"
+            "text": "<p>先日開催された2025年春夏の展示会には、多くのゲストが来てくださいました。ここでは素敵なファッショニスタたちのSNAPをご紹介。それぞれのArchivepkeスタイルをご紹介します！</p>"
           }
         }
       },
@@ -83,9 +84,9 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "",
-        "full_width": true,
+        "full_width": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -105,12 +106,12 @@
     "image_link_9yA9Mh": {
       "type": "image-link",
       "custom_css": [
-        ".banner__media {z-index: 3; left: unset; max-width: 1024px;}"
+        ".image-link {max-width: 720px; width: 80%; margin: auto; margin-top: 0.5rem; margin-bottom: max(11rem, 20%);}"
       ],
       "settings": {
-        "image": "shopify://shop_images/MYA_CAPTION_871de2cf-b527-4775-9ba4-cf8b4a5f767d.png",
+        "image": "shopify://shop_images/MYA_CAPTION.png",
         "image_overlay_opacity": 0,
-        "link": "",
+        "link": "shopify://products/egg-tote-bag",
         "image_height": "adapt",
         "color_scheme": "background-1",
         "image_behavior": "none",
@@ -132,12 +133,12 @@
     "image_link_7qyGE7": {
       "type": "image-link",
       "custom_css": [
-        ".banner__media {z-index: 3; left: unset; max-width: 1024px;}"
+        ".image-link {max-width: 720px; width: 80%; margin: auto; margin-top: max(3rem, 10%); margin-bottom: max(11rem, 20%);}"
       ],
       "settings": {
-        "image": "shopify://shop_images/MYA_CAPTION_871de2cf-b527-4775-9ba4-cf8b4a5f767d.png",
+        "image": "shopify://shop_images/MEI_TANAKA_CAPTION.png",
         "image_overlay_opacity": 0,
-        "link": "",
+        "link": "shopify://products/luv-lock-bag",
         "image_height": "adapt",
         "color_scheme": "background-1",
         "image_behavior": "none",
@@ -147,7 +148,7 @@
     "image_link_9pn7kf": {
       "type": "image-link",
       "settings": {
-        "image": "shopify://shop_images/AKI_ISHIKURO.png",
+        "image": "shopify://shop_images/AKI_ISHIKURO_f91c3744-309f-4c56-8f41-658d89ab4372.png",
         "image_overlay_opacity": 0,
         "link": "https://www.instagram.com/aki_ishikuro",
         "image_height": "adapt",
@@ -159,12 +160,12 @@
     "image_link_34VgQJ": {
       "type": "image-link",
       "custom_css": [
-        ".banner__media {z-index: 3; left: unset; max-width: 1024px;}"
+        ".image-link {max-width: 720px; width: 80%; margin: auto; margin-top: max(3rem, 10%); margin-bottom: max(11rem, 20%);}"
       ],
       "settings": {
-        "image": "shopify://shop_images/MYA_CAPTION_871de2cf-b527-4775-9ba4-cf8b4a5f767d.png",
+        "image": "shopify://shop_images/AKI_CAPTION.png",
         "image_overlay_opacity": 0,
-        "link": "",
+        "link": "shopify://products/luv-lock-duffle-bag",
         "image_height": "adapt",
         "color_scheme": "background-1",
         "image_behavior": "none",
@@ -174,7 +175,7 @@
     "image_link_K3w3cw": {
       "type": "image-link",
       "settings": {
-        "image": "shopify://shop_images/AOI_KANAZAWA_6196d3e9-271c-434a-b0ef-b7d2db9fcf89.png",
+        "image": "shopify://shop_images/AOI_KANAZAWA.png",
         "image_overlay_opacity": 0,
         "link": "https://www.instagram.com/aoi_kanazawa",
         "image_height": "adapt",
@@ -186,12 +187,12 @@
     "image_link_TncYeQ": {
       "type": "image-link",
       "custom_css": [
-        ".banner__media {z-index: 3; left: unset; max-width: 1024px;}"
+        ".image-link {max-width: 720px; width: 80%; margin: auto; margin-top: max(3rem, 10%); margin-bottom: max(11rem, 20%);}"
       ],
       "settings": {
-        "image": "shopify://shop_images/MYA_CAPTION_871de2cf-b527-4775-9ba4-cf8b4a5f767d.png",
+        "image": "shopify://shop_images/AOI_CAPTION.png",
         "image_overlay_opacity": 0,
-        "link": "",
+        "link": "shopify://products/turban-bag",
         "image_height": "adapt",
         "color_scheme": "background-1",
         "image_behavior": "none",
@@ -213,12 +214,12 @@
     "image_link_MdgGWA": {
       "type": "image-link",
       "custom_css": [
-        ".banner__media {z-index: 3; left: unset; max-width: 1024px;}"
+        ".image-link {max-width: 720px; width: 80%; margin: auto; margin-top: max(3rem, 10%); margin-bottom: max(11rem, 20%);}"
       ],
       "settings": {
-        "image": "shopify://shop_images/MYA_CAPTION_871de2cf-b527-4775-9ba4-cf8b4a5f767d.png",
+        "image": "shopify://shop_images/LENA_CAPTION.png",
         "image_overlay_opacity": 0,
-        "link": "",
+        "link": "shopify://products/nylon-skirt-bag",
         "image_height": "adapt",
         "color_scheme": "background-1",
         "image_behavior": "none",
