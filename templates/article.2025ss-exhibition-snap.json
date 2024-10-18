@@ -163,7 +163,7 @@
         ".image-link {max-width: 720px; width: 80%; margin: auto; margin-top: max(3rem, 10%); margin-bottom: max(11rem, 20%);}"
       ],
       "settings": {
-        "image": "shopify://shop_images/AKI_CAPTION.png",
+        "image": "shopify://shop_images/AKI_CAPTION_a53353b0-9821-46cd-b7d0-c9b0403183b1.png",
         "image_overlay_opacity": 0,
         "link": "shopify://products/luv-lock-duffle-bag",
         "image_height": "adapt",
