@@ -47,6 +47,19 @@
             "show_gift_card_recipient": true
           }
         },
+        "complementary_c9fjyY": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "other variants",
+            "make_collapsible_row": true,
+            "icon": "none",
+            "product_list_limit": 10,
+            "products_per_page": 3,
+            "pagination_style": "counter",
+            "image_ratio": "square",
+            "enable_quick_add": true
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -66,6 +79,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "complementary_c9fjyY",
         "description",
         "share"
       ],
