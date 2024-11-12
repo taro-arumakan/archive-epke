@@ -34,8 +34,7 @@
         },
         "content": {
           "type": "content",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -45,8 +44,7 @@
         "content"
       ],
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "image_link_eihqzF": {
       "type": "image-link",
