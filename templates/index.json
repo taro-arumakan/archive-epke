@@ -12,6 +12,25 @@
     "slideshow_tViJH4": {
       "type": "slideshow",
       "blocks": {
+        "slide_6kVxcD": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/epke_bf_banner.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/2024-black-friday-20-off",
+            "link_image": true,
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_WwkjcL": {
           "type": "slide",
           "settings": {
@@ -92,6 +111,7 @@
         }
       },
       "block_order": [
+        "slide_6kVxcD",
         "slide_WwkjcL",
         "slide_iq3pz7",
         "slide_r8kwEL",
@@ -152,6 +172,34 @@
       "custom_css": [
         ".collection__title.title-wrapper {text-align: center;}"
       ],
+      "settings": {
+        "title": "Black Friday",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "2024-black-friday-20-off",
+        "products_to_show": 6,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 92
+      }
+    },
+    "featured_collection_XB7FL7": {
+      "type": "featured-collection",
       "settings": {
         "title": "NEW ARRIVAL",
         "heading_size": "h2",
@@ -338,6 +386,7 @@
     "slideshow_tViJH4",
     "featured_collection_D6bxeF",
     "featured_collection",
+    "featured_collection_XB7FL7",
     "featured_collection_TBXhk3",
     "featured_collection_wmGaCn",
     "featured_collection_6y3c4E",
