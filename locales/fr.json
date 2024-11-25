@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin language editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "general": {
     "password_page": {
@@ -185,9 +176,7 @@
         "price_range": "{{ minimum }} - {{ maximum }}"
       }
     },
-    "modal": {
-      "label": "Galerie de supports multimédias"
-    },
+    "modal": { "label": "Galerie de supports multimédias" },
     "facets": {
       "apply": "Appliquer",
       "clear": "Effacer",
@@ -258,9 +247,7 @@
       "suggestions": "Suggestions",
       "pages": "Pages"
     },
-    "cart": {
-      "cart": "Panier"
-    },
+    "cart": { "cart": "Panier" },
     "contact": {
       "form": {
         "name": "Nom",
@@ -273,10 +260,7 @@
         "title": "Formulaire de contact"
       }
     },
-    "404": {
-      "title": "Page non trouvée",
-      "subtext": "404"
-    }
+    "404": { "title": "Page non trouvée", "subtext": "404" }
   },
   "sections": {
     "header": {
@@ -316,9 +300,7 @@
       "estimated_total": "Total estimé",
       "new_estimated_total": "Nouveau total estimé"
     },
-    "footer": {
-      "payment": "Moyens de paiement"
-    },
+    "footer": { "payment": "Moyens de paiement" },
     "featured_blog": {
       "view_all": "Tout afficher",
       "onboarding_title": "Article de blog",
@@ -328,17 +310,13 @@
       "view_all": "Tout afficher",
       "view_all_label": "Afficher tous les produits de la collection {{ collection_name }}"
     },
-    "collection_list": {
-      "view_all": "Tout afficher"
-    },
+    "collection_list": { "view_all": "Tout afficher" },
     "collection_template": {
       "title": "Collection",
       "empty": "Aucun produit trouvé",
       "use_fewer_filters_html": "Utiliser moins de filtres ou <a class=\"{{ class }}\" href=\"{{ link }}\">tout supprimer</a>"
     },
-    "video": {
-      "load_video": "Charger la vidéo : {{ description }}"
-    },
+    "video": { "load_video": "Charger la vidéo : {{ description }}" },
     "slideshow": {
       "load_slide": "Charger la diapositive",
       "previous_slideshow": "Diapositive précédente",
@@ -348,9 +326,7 @@
       "carousel": "Carrousel",
       "slide": "Diapositive"
     },
-    "page": {
-      "title": "Titre de la page"
-    },
+    "page": { "title": "Titre de la page" },
     "announcements": {
       "previous_announcement": "Annonce précédente",
       "next_announcement": "Annonce suivante",

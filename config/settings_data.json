@@ -1,17 +1,8 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "current": {
-    "logo": "shopify://shop_images/9FADF3A7-D7E6-4DCF-A1FB-2695A912C7D9.png",
+    "logo": "shopify:\/\/shop_images\/9FADF3A7-D7E6-4DCF-A1FB-2695A912C7D9.png",
     "logo_width": 200,
-    "favicon": "shopify://shop_images/9FADF3A7-D7E6-4DCF-A1FB-2695A912C7D9.png",
+    "favicon": "shopify:\/\/shop_images\/9FADF3A7-D7E6-4DCF-A1FB-2695A912C7D9.png",
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
@@ -108,10 +99,10 @@
     "sale_badge_color_scheme": "inverse",
     "sold_out_badge_color_scheme": "inverse",
     "brand_headline": "",
-    "brand_description": "<p></p>",
+    "brand_description": "<p><\/p>",
     "brand_image_width": 100,
     "social_facebook_link": "",
-    "social_instagram_link": "https://www.instagram.com/archivepke_jp/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/archivepke_jp\/",
     "social_youtube_link": "",
     "social_tiktok_link": "",
     "social_twitter_link": "",
@@ -128,7 +119,7 @@
     "show_cart_note": true,
     "cart_drawer_collection": "",
     "cart_color_scheme": "inverse",
-    "checkout_logo_image": "shopify://shop_images/9FADF3A7-D7E6-4DCF-A1FB-2695A912C7D9.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/9FADF3A7-D7E6-4DCF-A1FB-2695A912C7D9.png",
     "checkout_input_background_color_mode": "white",
     "sections": {
       "main-password-header": {
@@ -381,7 +372,7 @@
       "sale_badge_color_scheme": "accent-2",
       "sold_out_badge_color_scheme": "inverse",
       "brand_headline": "",
-      "brand_description": "<p></p>",
+      "brand_description": "<p><\/p>",
       "brand_image_width": 100,
       "social_twitter_link": "",
       "social_facebook_link": "",

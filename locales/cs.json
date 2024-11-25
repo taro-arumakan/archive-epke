@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin language editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "general": {
     "password_page": {
@@ -44,10 +35,7 @@
       "next": "Další stránka",
       "previous": "Předchozí stránka"
     },
-    "search": {
-      "search": "Hledání",
-      "reset": "Vymazat hledaný termín"
-    },
+    "search": { "search": "Hledání", "reset": "Vymazat hledaný termín" },
     "cart": {
       "view": "Zobrazit košík ({{ count }})",
       "item_added": "Položka byla přidána do košíku",
@@ -186,9 +174,7 @@
       },
       "product_variants": "Varianty produktu"
     },
-    "modal": {
-      "label": "Galerie multimédií"
-    },
+    "modal": { "label": "Galerie multimédií" },
     "facets": {
       "apply": "Použít",
       "clear": "Vymazat",
@@ -267,9 +253,7 @@
         "many": "Počet návrhů: {{ count }}"
       }
     },
-    "cart": {
-      "cart": "Košík"
-    },
+    "cart": { "cart": "Košík" },
     "contact": {
       "form": {
         "name": "Jméno",
@@ -282,10 +266,7 @@
         "title": "Kontaktní formulář"
       }
     },
-    "404": {
-      "title": "Stránka nebyla nalezena",
-      "subtext": "404"
-    }
+    "404": { "title": "Stránka nebyla nalezena", "subtext": "404" }
   },
   "sections": {
     "header": {
@@ -326,9 +307,7 @@
       "estimated_total": "Odhadovaný součet",
       "new_estimated_total": "Nový odhadovaný součet"
     },
-    "footer": {
-      "payment": "Platební metody"
-    },
+    "footer": { "payment": "Platební metody" },
     "featured_blog": {
       "view_all": "Zobrazit vše",
       "onboarding_title": "Blogový příspěvek",
@@ -338,17 +317,13 @@
       "view_all": "Zobrazit vše",
       "view_all_label": "Zobrazit všechny produkty v kolekci {{ collection_name }}"
     },
-    "collection_list": {
-      "view_all": "Zobrazit vše"
-    },
+    "collection_list": { "view_all": "Zobrazit vše" },
     "collection_template": {
       "title": "Kolekce",
       "empty": "Nenalezeny žádné produkty",
       "use_fewer_filters_html": "Můžete použít méně filtrů nebo <a class=\"{{ class }}\" href=\"{{ link }}\">všechny odebrat</a>"
     },
-    "video": {
-      "load_video": "Načíst video: {{ description }}"
-    },
+    "video": { "load_video": "Načíst video: {{ description }}" },
     "slideshow": {
       "load_slide": "Načíst snímek",
       "previous_slideshow": "Předchozí snímek",
@@ -358,9 +333,7 @@
       "carousel": "Karusel",
       "slide": "Snímek"
     },
-    "page": {
-      "title": "Název stránky"
-    },
+    "page": { "title": "Název stránky" },
     "announcements": {
       "previous_announcement": "Předchozí oznámení",
       "next_announcement": "Další oznámení",

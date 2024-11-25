@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "sections": {
     "slideshow_tViJH4": {
@@ -138,9 +129,7 @@
     "featured_collection_D6bxeF": {
       "type": "featured-collection",
       "disabled": true,
-      "custom_css": [
-        ".collection__title.title-wrapper {text-align: center;}"
-      ],
+      "custom_css": [".collection__title.title-wrapper {text-align: center;}"],
       "settings": {
         "title": "10％OFF＆NOVELTY CAMPAGIN",
         "heading_size": "h1",
@@ -169,9 +158,7 @@
     },
     "featured_collection": {
       "type": "featured-collection",
-      "custom_css": [
-        ".collection__title.title-wrapper {text-align: center;}"
-      ],
+      "custom_css": [".collection__title.title-wrapper {text-align: center;}"],
       "settings": {
         "title": "Black Friday",
         "heading_size": "h2",
@@ -229,9 +216,7 @@
     "featured_collection_TBXhk3": {
       "type": "featured-collection",
       "disabled": true,
-      "custom_css": [
-        ".collection__title.title-wrapper {text-align: center;}"
-      ],
+      "custom_css": [".collection__title.title-wrapper {text-align: center;}"],
       "settings": {
         "title": "HOT SUMMER COLLECTION",
         "heading_size": "h1",
@@ -260,9 +245,7 @@
     },
     "featured_collection_wmGaCn": {
       "type": "featured-collection",
-      "custom_css": [
-        ".collection__title.title-wrapper {text-align: center;}"
-      ],
+      "custom_css": [".collection__title.title-wrapper {text-align: center;}"],
       "settings": {
         "title": "2024AW COLLECTION",
         "heading_size": "h1",
@@ -291,9 +274,7 @@
     },
     "featured_collection_6y3c4E": {
       "type": "featured-collection",
-      "custom_css": [
-        ".collection__title.title-wrapper {text-align: center;}"
-      ],
+      "custom_css": [".collection__title.title-wrapper {text-align: center;}"],
       "settings": {
         "title": "STANDARD COLLECTION",
         "heading_size": "h1",
@@ -357,11 +338,7 @@
           }
         }
       },
-      "block_order": [
-        "row_Jpxa9R",
-        "row_3gEhjQ",
-        "row_9gch36"
-      ],
+      "block_order": ["row_Jpxa9R", "row_3gEhjQ", "row_9gch36"],
       "custom_css": [
         ".collapse-padding .image-with-text__grid .image-with-text__content {align-items: center;}"
       ],

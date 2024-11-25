@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "sections": {
     "main": {
@@ -14,35 +5,17 @@
       "blocks": {
         "featured_image": {
           "type": "featured_image",
-          "settings": {
-            "image_height": "adapt"
-          }
+          "settings": { "image_height": "adapt" }
         },
         "title": {
           "type": "title",
           "disabled": true,
-          "settings": {
-            "blog_show_date": true,
-            "blog_show_author": false
-          }
+          "settings": { "blog_show_date": true, "blog_show_author": false }
         },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        },
-        "content": {
-          "type": "content",
-          "settings": {}
-        }
+        "share": { "type": "share", "settings": { "share_label": "Share" } },
+        "content": { "type": "content", "settings": {} }
       },
-      "block_order": [
-        "featured_image",
-        "title",
-        "share",
-        "content"
-      ],
+      "block_order": ["featured_image", "title", "share", "content"],
       "disabled": true,
       "settings": {}
     },
@@ -76,10 +49,7 @@
           }
         }
       },
-      "block_order": [
-        "heading_eMxdHM",
-        "text_nQQP8a"
-      ],
+      "block_order": ["heading_eMxdHM", "text_nQQP8a"],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",

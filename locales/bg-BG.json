@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin language editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "general": {
     "password_page": {
@@ -44,10 +35,7 @@
       "next": "Следваща страница",
       "previous": "Предишна страница"
     },
-    "search": {
-      "search": "Търсене",
-      "reset": "Изчисти думата за търсене"
-    },
+    "search": { "search": "Търсене", "reset": "Изчисти думата за търсене" },
     "cart": {
       "view": "Покажи количката ({{ count }})",
       "item_added": "Артикулът е добавен в количката",
@@ -184,9 +172,7 @@
       },
       "product_variants": "Варианти на продукта"
     },
-    "modal": {
-      "label": "Мултимедийна галерия"
-    },
+    "modal": { "label": "Мултимедийна галерия" },
     "facets": {
       "apply": "Приложи",
       "clear": "Изчисти",
@@ -249,9 +235,7 @@
       "suggestions": "Предложения",
       "pages": "Страници"
     },
-    "cart": {
-      "cart": "Количка"
-    },
+    "cart": { "cart": "Количка" },
     "contact": {
       "form": {
         "name": "Име",
@@ -264,10 +248,7 @@
         "title": "Формуляр за контакт"
       }
     },
-    "404": {
-      "title": "Страницата не е открита",
-      "subtext": "404"
-    }
+    "404": { "title": "Страницата не е открита", "subtext": "404" }
   },
   "sections": {
     "header": {
@@ -306,9 +287,7 @@
       "estimated_total": "Очаквана обща сума",
       "new_estimated_total": "Нова очаквана обща сума"
     },
-    "footer": {
-      "payment": "Начини на плащане"
-    },
+    "footer": { "payment": "Начини на плащане" },
     "featured_blog": {
       "view_all": "Покажи всички",
       "onboarding_title": "Публикация в блог",
@@ -318,17 +297,13 @@
       "view_all": "Покажи всички",
       "view_all_label": "Покажи всички продукти в колекция {{ collection_name }}"
     },
-    "collection_list": {
-      "view_all": "Покажи всички"
-    },
+    "collection_list": { "view_all": "Покажи всички" },
     "collection_template": {
       "title": "Колекция",
       "empty": "Не са открити продукти",
       "use_fewer_filters_html": "Използвайте по-малко филтри или <a class=\"{{ class }}\" href=\"{{ link }}\">премахнете всички</a>"
     },
-    "video": {
-      "load_video": "Зареждане на видео: {{ description }}"
-    },
+    "video": { "load_video": "Зареждане на видео: {{ description }}" },
     "slideshow": {
       "load_slide": "Зареждане на слайд",
       "previous_slideshow": "Предишен слайд",
@@ -338,9 +313,7 @@
       "carousel": "Въртележка",
       "slide": "Слайд"
     },
-    "page": {
-      "title": "Заглавие на страница"
-    },
+    "page": { "title": "Заглавие на страница" },
     "announcements": {
       "previous_announcement": "Предишно известие",
       "next_announcement": "Следващо известие",

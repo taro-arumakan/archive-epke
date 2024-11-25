@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin language editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "general": {
     "password_page": {
@@ -44,10 +35,7 @@
       "next": "Seuraava sivu",
       "previous": "Edellinen sivu"
     },
-    "search": {
-      "search": "Hae",
-      "reset": "Tyhjennä hakutermi"
-    },
+    "search": { "search": "Hae", "reset": "Tyhjennä hakutermi" },
     "cart": {
       "view": "Näytä ostoskori ({{ count }})",
       "item_added": "Tuote lisätty ostoskoriisi",
@@ -184,9 +172,7 @@
       },
       "product_variants": "Tuoteversiot"
     },
-    "modal": {
-      "label": "Mediagalleria"
-    },
+    "modal": { "label": "Mediagalleria" },
     "facets": {
       "apply": "Käytä",
       "clear": "Tyhjennä",
@@ -249,9 +235,7 @@
         "other": "{{ count }} ehdotusta"
       }
     },
-    "cart": {
-      "cart": "Ostoskori"
-    },
+    "cart": { "cart": "Ostoskori" },
     "contact": {
       "form": {
         "name": "Nimi",
@@ -264,10 +248,7 @@
         "title": "Yhteydenottolomake"
       }
     },
-    "404": {
-      "title": "Sivua ei löytynyt",
-      "subtext": "404"
-    }
+    "404": { "title": "Sivua ei löytynyt", "subtext": "404" }
   },
   "sections": {
     "header": {
@@ -306,9 +287,7 @@
       "estimated_total": "Arvioitu kokonaishinta",
       "new_estimated_total": "Uusi arvioitu kokonaishinta"
     },
-    "footer": {
-      "payment": "Maksutavat"
-    },
+    "footer": { "payment": "Maksutavat" },
     "featured_blog": {
       "view_all": "Näytä kaikki",
       "onboarding_title": "Blogipostaus",
@@ -318,17 +297,13 @@
       "view_all": "Näytä kaikki",
       "view_all_label": "Näytä kaikki tuotteet kokoelmassa {{ collection_name }}"
     },
-    "collection_list": {
-      "view_all": "Näytä kaikki"
-    },
+    "collection_list": { "view_all": "Näytä kaikki" },
     "collection_template": {
       "title": "Kokoelma",
       "empty": "Tuotteita ei löytynyt",
       "use_fewer_filters_html": "Käytä vähemmän suodattimia tai <a class=\"{{ class }}\" href=\"{{ link }}\">poista kaikki</a>"
     },
-    "video": {
-      "load_video": "Lataa video: {{ description }}"
-    },
+    "video": { "load_video": "Lataa video: {{ description }}" },
     "slideshow": {
       "load_slide": "Lataa dia",
       "previous_slideshow": "Edellinen dia",
@@ -338,9 +313,7 @@
       "carousel": "Karuselli",
       "slide": "Dia"
     },
-    "page": {
-      "title": "Sivun otsikko"
-    },
+    "page": { "title": "Sivun otsikko" },
     "announcements": {
       "previous_announcement": "Edellinen ilmoitus",
       "next_announcement": "Ilmoitus",
