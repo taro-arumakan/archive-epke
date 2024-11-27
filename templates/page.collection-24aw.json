@@ -1,9 +1,21 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": { "padding_top": 28, "padding_bottom": 28 }
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
     },
     "image_banner_hRWWe6": {
       "type": "image-banner",
@@ -83,7 +95,9 @@
     },
     "image_banner_yY6Uty": {
       "type": "image-banner",
-      "custom_css": [".banner {margin-top: 9rem;}"],
+      "custom_css": [
+        ".banner {margin-top: 9rem;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/2024aw_005.png",
         "image_overlay_opacity": 0,

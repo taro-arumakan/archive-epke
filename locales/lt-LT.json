@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -35,7 +44,10 @@
       "next": "Kitas puslapis",
       "previous": "Ankstesnis puslapis"
     },
-    "search": { "search": "Ieškoti", "reset": "Išvalyti paieškos terminą" },
+    "search": {
+      "search": "Ieškoti",
+      "reset": "Išvalyti paieškos terminą"
+    },
     "cart": {
       "view": "Peržiūrėti krepšelį ({{ count }})",
       "item_added": "Prekė įdėta į jūsų krepšelį",
@@ -174,7 +186,9 @@
         "price_range": "{{ minimum }}–{{ maximum }}"
       }
     },
-    "modal": { "label": "Medijų galerija" },
+    "modal": {
+      "label": "Medijų galerija"
+    },
     "facets": {
       "apply": "Taikyti",
       "clear": "Išvalyti",
@@ -253,7 +267,9 @@
       "suggestions": "Pasiūlymai",
       "pages": "Puslapiai"
     },
-    "cart": { "cart": "Krepšelis" },
+    "cart": {
+      "cart": "Krepšelis"
+    },
     "contact": {
       "form": {
         "name": "Vardas",
@@ -266,7 +282,10 @@
         "title": "Kontaktinė forma"
       }
     },
-    "404": { "title": "Puslapis nerastas", "subtext": "404" }
+    "404": {
+      "title": "Puslapis nerastas",
+      "subtext": "404"
+    }
   },
   "sections": {
     "header": {
@@ -307,7 +326,9 @@
       "estimated_total": "Apskaičiuota bendra suma",
       "new_estimated_total": "Nauja apskaičiuota bendra suma"
     },
-    "footer": { "payment": "Mokėjimo būdai" },
+    "footer": {
+      "payment": "Mokėjimo būdai"
+    },
     "featured_blog": {
       "view_all": "Žr. viską",
       "onboarding_title": "Tinklaraščio įrašas",
@@ -317,13 +338,17 @@
       "view_all": "Žr. viską",
       "view_all_label": "Žr. visus kolekcijos „{{ collection_name }}“ gaminius"
     },
-    "collection_list": { "view_all": "Žr. viską" },
+    "collection_list": {
+      "view_all": "Žr. viską"
+    },
     "collection_template": {
       "title": "Kolekcija",
       "empty": "Nerasta jokių gaminių",
       "use_fewer_filters_html": "Naudoti mažiau filtrų arba <a class=\"{{ class }}\" href=\"{{ link }}\">pašalinti viską</a>"
     },
-    "video": { "load_video": "Įkelti vaizdo įrašą „{{ description }}“" },
+    "video": {
+      "load_video": "Įkelti vaizdo įrašą „{{ description }}“"
+    },
     "slideshow": {
       "load_slide": "Įkelti skaidrę",
       "previous_slideshow": "Ankstesnė skaidrė",
@@ -333,7 +358,9 @@
       "carousel": "Karuselė",
       "slide": "Skaidrė"
     },
-    "page": { "title": "Puslapio pavadinimas" },
+    "page": {
+      "title": "Puslapio pavadinimas"
+    },
     "announcements": {
       "previous_announcement": "Ankstesnis skelbimas",
       "next_announcement": "Kitas skelbimas",

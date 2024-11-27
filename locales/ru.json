@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -35,7 +44,10 @@
       "next": "Следующая страница",
       "previous": "Предыдущая страница"
     },
-    "search": { "search": "Поиск", "reset": "Удалить поисковый запрос" },
+    "search": {
+      "search": "Поиск",
+      "reset": "Удалить поисковый запрос"
+    },
     "cart": {
       "view": "Просмотреть корзину ({{ count }})",
       "item_added": "Товар добавлен в корзину.",
@@ -174,7 +186,9 @@
       },
       "product_variants": "Варианты товара"
     },
-    "modal": { "label": "Галерея мультимедиа" },
+    "modal": {
+      "label": "Галерея мультимедиа"
+    },
     "facets": {
       "apply": "Добавить",
       "clear": "Удалить",
@@ -253,7 +267,9 @@
       "suggestions": "Рекомендации",
       "pages": "Страницы"
     },
-    "cart": { "cart": "Корзина" },
+    "cart": {
+      "cart": "Корзина"
+    },
     "contact": {
       "form": {
         "name": "Имя",
@@ -266,7 +282,10 @@
         "title": "Форма для связи"
       }
     },
-    "404": { "title": "Страница не найдена", "subtext": "404" }
+    "404": {
+      "title": "Страница не найдена",
+      "subtext": "404"
+    }
   },
   "sections": {
     "header": {
@@ -307,7 +326,9 @@
       "estimated_total": "Ориентировочная общая сумма",
       "new_estimated_total": "Новая ориентировочная общая сумма"
     },
-    "footer": { "payment": "Способы оплаты" },
+    "footer": {
+      "payment": "Способы оплаты"
+    },
     "featured_blog": {
       "view_all": "Посмотреть все",
       "onboarding_title": "Статья в блоге",
@@ -317,13 +338,17 @@
       "view_all": "Посмотреть все",
       "view_all_label": "Посмотреть все продукты в коллекции \"{{ collection_name }}\""
     },
-    "collection_list": { "view_all": "Посмотреть все" },
+    "collection_list": {
+      "view_all": "Посмотреть все"
+    },
     "collection_template": {
       "title": "Коллекция",
       "empty": "Продукты не найдены",
       "use_fewer_filters_html": "Используйте меньше фильтров или <a class=\"{{ class }}\" href=\"{{ link }}\">удалите все</a>"
     },
-    "video": { "load_video": "Загрузить видео: {{ description }}" },
+    "video": {
+      "load_video": "Загрузить видео: {{ description }}"
+    },
     "slideshow": {
       "load_slide": "Загрузить слайд",
       "previous_slideshow": "Предыдущий слайд",
@@ -333,7 +358,9 @@
       "carousel": "Карусель",
       "slide": "Слайд"
     },
-    "page": { "title": "Название страницы" },
+    "page": {
+      "title": "Название страницы"
+    },
     "announcements": {
       "previous_announcement": "Предыдущее объявление",
       "next_announcement": "Следующее объявление",

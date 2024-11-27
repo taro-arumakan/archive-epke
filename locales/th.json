@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -35,7 +44,10 @@
       "next": "หน้าถัดไป",
       "previous": "หน้าก่อนหน้านี้"
     },
-    "search": { "search": "ค้นหา", "reset": "ล้างคำที่ใช้ค้นหา" },
+    "search": {
+      "search": "ค้นหา",
+      "reset": "ล้างคำที่ใช้ค้นหา"
+    },
     "cart": {
       "view": "ดูตะกร้าสินค้า ({{ count }})",
       "item_added": "รายการที่เพิ่มในตะกร้าสินค้าของคุณ",
@@ -172,7 +184,9 @@
       },
       "product_variants": "ตัวเลือกสินค้า"
     },
-    "modal": { "label": "แกลเลอรีสื่อ" },
+    "modal": {
+      "label": "แกลเลอรีสื่อ"
+    },
     "facets": {
       "apply": "นำไปใช้",
       "clear": "ล้าง",
@@ -235,7 +249,9 @@
       "suggestions": "คำแนะนำ",
       "pages": "หน้า"
     },
-    "cart": { "cart": "ตะกร้าสินค้า" },
+    "cart": {
+      "cart": "ตะกร้าสินค้า"
+    },
     "contact": {
       "form": {
         "name": "ชื่อ",
@@ -248,7 +264,10 @@
         "title": "แบบฟอร์มการติดต่อ"
       }
     },
-    "404": { "title": "ไม่พบหน้า", "subtext": "404" }
+    "404": {
+      "title": "ไม่พบหน้า",
+      "subtext": "404"
+    }
   },
   "sections": {
     "header": {
@@ -287,7 +306,9 @@
       "estimated_total": "ยอดทั้งหมดโดยประมาณ",
       "new_estimated_total": "ยอดรวมโดยประมาณใหม่"
     },
-    "footer": { "payment": "วิธีการชำระเงิน" },
+    "footer": {
+      "payment": "วิธีการชำระเงิน"
+    },
     "featured_blog": {
       "view_all": "ดูทั้งหมด",
       "onboarding_title": "บล็อกโพสต์",
@@ -297,13 +318,17 @@
       "view_all": "ดูทั้งหมด",
       "view_all_label": "ดูสินค้าทั้งหมดในคอลเลกชัน {{ collection_name }}"
     },
-    "collection_list": { "view_all": "ดูทั้งหมด" },
+    "collection_list": {
+      "view_all": "ดูทั้งหมด"
+    },
     "collection_template": {
       "title": "คอลเลกชัน",
       "empty": "ไม่พบสินค้า",
       "use_fewer_filters_html": "ใช้ตัวกรองให้น้อยลง หรือ<a class=\"{{ class }}\" href=\"{{ link }}\">ลบทั้งหมด</a>"
     },
-    "video": { "load_video": "โหลดวิดีโอ: {{ description }}" },
+    "video": {
+      "load_video": "โหลดวิดีโอ: {{ description }}"
+    },
     "slideshow": {
       "load_slide": "โหลดสไลด์",
       "previous_slideshow": "สไลด์ก่อนหน้า",
@@ -313,7 +338,9 @@
       "carousel": "ภาพสไลด์",
       "slide": "สไลด์"
     },
-    "page": { "title": "ชื่อหน้า" },
+    "page": {
+      "title": "ชื่อหน้า"
+    },
     "announcements": {
       "previous_announcement": "การประกาศก่อนหน้า",
       "next_announcement": "การประกาศถัดไป",

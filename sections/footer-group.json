@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -7,10 +16,15 @@
       "blocks": {
         "link_list_eGLQhE": {
           "type": "link_list",
-          "settings": { "heading": "", "menu": "footer" }
+          "settings": {
+            "heading": "",
+            "menu": "footer"
+          }
         }
       },
-      "block_order": ["link_list_eGLQhE"],
+      "block_order": [
+        "link_list_eGLQhE"
+      ],
       "custom_css": [
         ".footer__content-top {padding-top: 2.3rem; padding-bottom: 0rem;}",
         ".footer-block__details-content {margin-bottom: 0;}",
@@ -36,5 +50,7 @@
       }
     }
   },
-  "order": ["footer"]
+  "order": [
+    "footer"
+  ]
 }

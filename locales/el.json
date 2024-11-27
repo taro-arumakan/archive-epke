@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -35,7 +44,10 @@
       "next": "Επόμενη σελίδα",
       "previous": "Προηγούμενη σελίδα"
     },
-    "search": { "search": "Αναζήτηση", "reset": "Διαγραφή όρου αναζήτησης" },
+    "search": {
+      "search": "Αναζήτηση",
+      "reset": "Διαγραφή όρου αναζήτησης"
+    },
     "cart": {
       "view": "Προβολή καλαθιού ({{ count }})",
       "item_added": "Το στοιχείο προστέθηκε στο καλάθι σας",
@@ -172,7 +184,9 @@
         "price_range": "{{ minimum }} - {{ maximum }}"
       }
     },
-    "modal": { "label": "Συλλογή μέσων" },
+    "modal": {
+      "label": "Συλλογή μέσων"
+    },
     "facets": {
       "apply": "Εφαρμογή",
       "clear": "Διαγραφή",
@@ -235,7 +249,9 @@
         "other": "{{ count }} προτάσεις"
       }
     },
-    "cart": { "cart": "Καλάθι" },
+    "cart": {
+      "cart": "Καλάθι"
+    },
     "contact": {
       "form": {
         "name": "Όνομα",
@@ -248,7 +264,10 @@
         "title": "Φόρμα επικοινωνίας"
       }
     },
-    "404": { "title": "Η σελίδα δεν βρέθηκε", "subtext": "404" }
+    "404": {
+      "title": "Η σελίδα δεν βρέθηκε",
+      "subtext": "404"
+    }
   },
   "sections": {
     "header": {
@@ -287,7 +306,9 @@
       "estimated_total": "Εκτιμώμενο σύνολο",
       "new_estimated_total": "Νέο εκτιμώμενο σύνολο"
     },
-    "footer": { "payment": "Μέθοδοι πληρωμής" },
+    "footer": {
+      "payment": "Μέθοδοι πληρωμής"
+    },
     "featured_blog": {
       "view_all": "Προβολή όλων",
       "onboarding_title": "Ανάρτηση ιστολογίου",
@@ -297,13 +318,17 @@
       "view_all": "Προβολή όλων",
       "view_all_label": "Προβολή όλων των προϊόντων στη συλλογή {{ collection_name }}"
     },
-    "collection_list": { "view_all": "Προβολή όλων" },
+    "collection_list": {
+      "view_all": "Προβολή όλων"
+    },
     "collection_template": {
       "title": "Συλλογή",
       "empty": "Δεν βρέθηκαν προϊόντα",
       "use_fewer_filters_html": "Χρησιμοποιήστε λιγότερα φίλτρα ή <a class=\"{{ class }}\" href=\"{{ link }}\">καταργήστε τα όλα</a>"
     },
-    "video": { "load_video": "Φόρτωση βίντεο: {{ description }}" },
+    "video": {
+      "load_video": "Φόρτωση βίντεο: {{ description }}"
+    },
     "slideshow": {
       "load_slide": "Φόρτωση διαφάνειας",
       "previous_slideshow": "Προηγούμενη διαφάνεια",
@@ -313,7 +338,9 @@
       "carousel": "Καρουζέλ",
       "slide": "Διαφάνεια"
     },
-    "page": { "title": "Τίτλος σελίδας" },
+    "page": {
+      "title": "Τίτλος σελίδας"
+    },
     "announcements": {
       "previous_announcement": "Προηγούμενη ανακοίνωση",
       "next_announcement": "Επόμενη ανακοίνωση",

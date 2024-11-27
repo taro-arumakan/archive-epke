@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -35,7 +44,10 @@
       "next": "次のページ",
       "previous": "前のページ"
     },
-    "search": { "search": "検索", "reset": "検索ワードをクリアする" },
+    "search": {
+      "search": "検索",
+      "reset": "検索ワードをクリアする"
+    },
     "cart": {
       "view": "カートを見る ({{ count }})",
       "item_added": "カートにアイテムが追加されました",
@@ -172,7 +184,9 @@
         "price_range": "{{ minimum }}～{{ maximum }}"
       }
     },
-    "modal": { "label": "メディアギャラリー" },
+    "modal": {
+      "label": "メディアギャラリー"
+    },
     "facets": {
       "apply": "適用",
       "clear": "クリア",
@@ -235,7 +249,9 @@
       "suggestions": "候補",
       "pages": "ページ"
     },
-    "cart": { "cart": "カート" },
+    "cart": {
+      "cart": "カート"
+    },
     "contact": {
       "form": {
         "name": "名前",
@@ -248,7 +264,10 @@
         "title": "お問い合わせフォーム"
       }
     },
-    "404": { "title": "ページが見つかりません", "subtext": "404" }
+    "404": {
+      "title": "ページが見つかりません",
+      "subtext": "404"
+    }
   },
   "sections": {
     "header": {
@@ -287,7 +306,9 @@
       "estimated_total": "見積もり合計",
       "new_estimated_total": "新たな推定総額"
     },
-    "footer": { "payment": "決済方法" },
+    "footer": {
+      "payment": "決済方法"
+    },
     "featured_blog": {
       "view_all": "すべてを表示する",
       "onboarding_title": "ブログ記事",
@@ -297,13 +318,17 @@
       "view_all": "すべてを表示する",
       "view_all_label": "{{ collection_name }}コレクションの商品をすべて表示する"
     },
-    "collection_list": { "view_all": "すべてを表示する" },
+    "collection_list": {
+      "view_all": "すべてを表示する"
+    },
     "collection_template": {
       "title": "コレクション",
       "empty": "商品が見つかりません",
       "use_fewer_filters_html": "絞り込みの数を減らす、または<a class=\"{{ class }}\" href=\"{{ link }}\">すべて削除する</a>"
     },
-    "video": { "load_video": "動画を読み込む: {{ description }}" },
+    "video": {
+      "load_video": "動画を読み込む: {{ description }}"
+    },
     "slideshow": {
       "load_slide": "スライドを読み込む",
       "previous_slideshow": "前のスライド",
@@ -313,7 +338,9 @@
       "carousel": "カルーセル",
       "slide": "スライド"
     },
-    "page": { "title": "ページタイトル" },
+    "page": {
+      "title": "ページタイトル"
+    },
     "announcements": {
       "previous_announcement": "前回のお知らせ",
       "next_announcement": "次回のお知らせ",

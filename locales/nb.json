@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -35,7 +44,10 @@
       "next": "Neste side",
       "previous": "Forrige side"
     },
-    "search": { "search": "Søk", "reset": "Fjern søket" },
+    "search": {
+      "search": "Søk",
+      "reset": "Fjern søket"
+    },
     "cart": {
       "view": "Vis handlekurv ({{ count }})",
       "item_added": "Vare lagt i handlekurven",
@@ -172,7 +184,9 @@
       },
       "product_variants": "Produktvarianter"
     },
-    "modal": { "label": "Mediegalleri" },
+    "modal": {
+      "label": "Mediegalleri"
+    },
     "facets": {
       "apply": "Bruk",
       "clear": "Fjern",
@@ -235,7 +249,9 @@
       "suggestions": "Forslag",
       "pages": "Sider"
     },
-    "cart": { "cart": "Handlekurv" },
+    "cart": {
+      "cart": "Handlekurv"
+    },
     "contact": {
       "form": {
         "name": "Navn",
@@ -248,13 +264,19 @@
         "title": "Kontaktskjema"
       }
     },
-    "404": { "title": "Siden finnes ikke", "subtext": "404" }
+    "404": {
+      "title": "Siden finnes ikke",
+      "subtext": "404"
+    }
   },
   "sections": {
     "header": {
       "announcement": "Kunngjøring",
       "menu": "Meny",
-      "cart_count": { "one": "{{ count }} vare", "other": "{{ count }} varer" }
+      "cart_count": {
+        "one": "{{ count }} vare",
+        "other": "{{ count }} varer"
+      }
     },
     "cart": {
       "title": "Handlekurven din",
@@ -284,7 +306,9 @@
       "estimated_total": "Estimert totalsum",
       "new_estimated_total": "Ny estimert totalsum"
     },
-    "footer": { "payment": "Betalingsmåter" },
+    "footer": {
+      "payment": "Betalingsmåter"
+    },
     "featured_blog": {
       "view_all": "Vis alle",
       "onboarding_title": "Blogginnlegg",
@@ -294,13 +318,17 @@
       "view_all": "Vis alle",
       "view_all_label": "Vis alle produktene i {{ collection_name }}-samlingen"
     },
-    "collection_list": { "view_all": "Vis alle" },
+    "collection_list": {
+      "view_all": "Vis alle"
+    },
     "collection_template": {
       "title": "Samling",
       "empty": "Ingen produkter funnet",
       "use_fewer_filters_html": "Bruk færre filtre eller <a class=\"{{ class }}\" href=\"{{ link }}\">fjern alle</a>"
     },
-    "video": { "load_video": "Last inn video: {{ description }}" },
+    "video": {
+      "load_video": "Last inn video: {{ description }}"
+    },
     "slideshow": {
       "load_slide": "Last inn lysbilde",
       "previous_slideshow": "Forrige lysbilde",
@@ -310,7 +338,9 @@
       "carousel": "Karusell",
       "slide": "Lysbilde"
     },
-    "page": { "title": "Sidetittel" },
+    "page": {
+      "title": "Sidetittel"
+    },
     "announcements": {
       "previous_announcement": "Forrige kunngjøring",
       "next_announcement": "Neste kunngjøring",

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -35,7 +44,10 @@
       "next": "Página seguinte",
       "previous": "Página anterior"
     },
-    "search": { "search": "Pesquisar", "reset": "Limpar termo de pesquisa" },
+    "search": {
+      "search": "Pesquisar",
+      "reset": "Limpar termo de pesquisa"
+    },
     "cart": {
       "view": "Ver carrinho ({{ count }})",
       "item_added": "Item adicionado ao seu carrinho",
@@ -173,7 +185,9 @@
         "price_range": "{{ minimum }} - {{ maximum }}"
       }
     },
-    "modal": { "label": "Galeria de conteúdo multimédia" },
+    "modal": {
+      "label": "Galeria de conteúdo multimédia"
+    },
     "facets": {
       "apply": "Aplicar",
       "clear": "Limpar",
@@ -244,7 +258,9 @@
       "suggestions": "Sugestões",
       "pages": "Páginas"
     },
-    "cart": { "cart": "Carrinho" },
+    "cart": {
+      "cart": "Carrinho"
+    },
     "contact": {
       "form": {
         "name": "Nome",
@@ -257,7 +273,10 @@
         "title": "Formulário de contacto"
       }
     },
-    "404": { "title": "Página não encontrada", "subtext": "404" }
+    "404": {
+      "title": "Página não encontrada",
+      "subtext": "404"
+    }
   },
   "sections": {
     "header": {
@@ -297,7 +316,9 @@
       "estimated_total": "Total estimado",
       "new_estimated_total": "Novo total estimado"
     },
-    "footer": { "payment": "Métodos de pagamento" },
+    "footer": {
+      "payment": "Métodos de pagamento"
+    },
     "featured_blog": {
       "view_all": "Ver tudo",
       "onboarding_title": "Publicação no blogue",
@@ -307,13 +328,17 @@
       "view_all": "Ver tudo",
       "view_all_label": "Ver todos os produtos da coleção {{ collection_name }}"
     },
-    "collection_list": { "view_all": "Ver tudo" },
+    "collection_list": {
+      "view_all": "Ver tudo"
+    },
     "collection_template": {
       "title": "Coleção",
       "empty": "Nenhum produto encontrado",
       "use_fewer_filters_html": "Utilizar menos filtros ou <a class=\"{{ class }}\" href=\"{{ link }}\">remover tudo</a>"
     },
-    "video": { "load_video": "Carregar vídeo: {{ description }}" },
+    "video": {
+      "load_video": "Carregar vídeo: {{ description }}"
+    },
     "slideshow": {
       "load_slide": "Carregar slide",
       "previous_slideshow": "Diapositivo anterior",
@@ -323,7 +348,9 @@
       "carousel": "Carrossel",
       "slide": "Diapositivo"
     },
-    "page": { "title": "Título da página" },
+    "page": {
+      "title": "Título da página"
+    },
     "announcements": {
       "previous_announcement": "Comunicado anterior",
       "next_announcement": "Comunicado seguinte",

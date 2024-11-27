@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -35,7 +44,10 @@
       "next": "下一頁",
       "previous": "上一頁"
     },
-    "search": { "search": "搜尋", "reset": "清除搜尋詞彙" },
+    "search": {
+      "search": "搜尋",
+      "reset": "清除搜尋詞彙"
+    },
     "cart": {
       "view": "檢視購物車 ({{ count }})",
       "item_added": "商品已加入購物車",
@@ -172,7 +184,9 @@
         "price_range": "{{ minimum }} - {{ maximum }}"
       }
     },
-    "modal": { "label": "媒體庫" },
+    "modal": {
+      "label": "媒體庫"
+    },
     "facets": {
       "apply": "套用",
       "clear": "清除",
@@ -235,7 +249,9 @@
       "suggestions": "建議",
       "pages": "頁面"
     },
-    "cart": { "cart": "購物車" },
+    "cart": {
+      "cart": "購物車"
+    },
     "contact": {
       "form": {
         "name": "名稱",
@@ -248,7 +264,10 @@
         "title": "聯絡表單"
       }
     },
-    "404": { "title": "找不到頁面", "subtext": "404" }
+    "404": {
+      "title": "找不到頁面",
+      "subtext": "404"
+    }
   },
   "sections": {
     "header": {
@@ -287,7 +306,9 @@
       "estimated_total": "估計總金額",
       "new_estimated_total": "新的估計總金額"
     },
-    "footer": { "payment": "付款方式" },
+    "footer": {
+      "payment": "付款方式"
+    },
     "featured_blog": {
       "view_all": "檢視全部",
       "onboarding_title": "網誌文章",
@@ -297,13 +318,17 @@
       "view_all": "檢視全部",
       "view_all_label": "檢視 {{ collection_name }} 商品系列的全部產品"
     },
-    "collection_list": { "view_all": "檢視全部" },
+    "collection_list": {
+      "view_all": "檢視全部"
+    },
     "collection_template": {
       "title": "商品系列",
       "empty": "找不到任何產品",
       "use_fewer_filters_html": "使用較少篩選條件或<a class=\"{{ class }}\" href=\"{{ link }}\">全部移除</a>"
     },
-    "video": { "load_video": "載入影片：{{ description }}" },
+    "video": {
+      "load_video": "載入影片：{{ description }}"
+    },
     "slideshow": {
       "load_slide": "載入投影片",
       "previous_slideshow": "上一張投影片",
@@ -313,7 +338,9 @@
       "carousel": "輪播廣告",
       "slide": "投影片"
     },
-    "page": { "title": "頁面標題" },
+    "page": {
+      "title": "頁面標題"
+    },
     "announcements": {
       "previous_announcement": "前一則公告",
       "next_announcement": "下一則公告",

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -35,7 +44,10 @@
       "next": "Naslednja stran",
       "previous": "Prejšnja stran"
     },
-    "search": { "search": "Iskanje", "reset": "Počisti iskalni izraz" },
+    "search": {
+      "search": "Iskanje",
+      "reset": "Počisti iskalni izraz"
+    },
     "cart": {
       "view": "Prikaži košarico ({{ count }})",
       "item_added": "Artikel je dodan v košarico",
@@ -174,7 +186,9 @@
         "price_range": "{{ minimum }}–{{ maximum }}"
       }
     },
-    "modal": { "label": "Galerija predstavnostnih vsebin" },
+    "modal": {
+      "label": "Galerija predstavnostnih vsebin"
+    },
     "facets": {
       "apply": "Uporabi",
       "clear": "Počisti",
@@ -253,7 +267,9 @@
       "suggestions": "Predlogi",
       "pages": "Strani"
     },
-    "cart": { "cart": "Košarica" },
+    "cart": {
+      "cart": "Košarica"
+    },
     "contact": {
       "form": {
         "name": "Ime",
@@ -266,7 +282,10 @@
         "title": "Obrazec za stik"
       }
     },
-    "404": { "title": "Strani ni mogoče najti", "subtext": "404" }
+    "404": {
+      "title": "Strani ni mogoče najti",
+      "subtext": "404"
+    }
   },
   "sections": {
     "header": {
@@ -307,7 +326,9 @@
       "estimated_total": "Predvideni skupni znesek",
       "new_estimated_total": "Nov predvideni skupni znesek"
     },
-    "footer": { "payment": "Načini plačila" },
+    "footer": {
+      "payment": "Načini plačila"
+    },
     "featured_blog": {
       "view_all": "Prikaži vse",
       "onboarding_title": "Objava v spletnem dnevniku",
@@ -317,13 +338,17 @@
       "view_all": "Prikaži vse",
       "view_all_label": "Prikaži vse izdelke v zbirki {{ collection_name }}"
     },
-    "collection_list": { "view_all": "Prikaži vse" },
+    "collection_list": {
+      "view_all": "Prikaži vse"
+    },
     "collection_template": {
       "title": "Zbirka",
       "empty": "Ni najdenih izdelkov",
       "use_fewer_filters_html": "Uporabite manj filtrov ali <a class=\"{{ class }}\" href=\"{{ link }}\">odstranite vse</a>"
     },
-    "video": { "load_video": "Naloži videoposnetek: {{ description }}" },
+    "video": {
+      "load_video": "Naloži videoposnetek: {{ description }}"
+    },
     "slideshow": {
       "load_slide": "Naloži diapozitiv",
       "previous_slideshow": "Prejšnji diapozitiv",
@@ -333,7 +358,9 @@
       "carousel": "Vrtiljak",
       "slide": "Diapozitiv"
     },
-    "page": { "title": "Naslov strani" },
+    "page": {
+      "title": "Naslov strani"
+    },
     "announcements": {
       "previous_announcement": "Prejšnje obvestilo",
       "next_announcement": "Naslednje obvestilo",

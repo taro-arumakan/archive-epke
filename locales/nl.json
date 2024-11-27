@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -35,7 +44,10 @@
       "next": "Volgende pagina",
       "previous": "Vorige pagina"
     },
-    "search": { "search": "Zoeken", "reset": "Zoekterm wissen" },
+    "search": {
+      "search": "Zoeken",
+      "reset": "Zoekterm wissen"
+    },
     "cart": {
       "view": "Winkelwagen bekijken ({{ count }})",
       "item_added": "Artikel toegevoegd aan winkelwagen",
@@ -172,7 +184,9 @@
       },
       "product_variants": "Productvarianten"
     },
-    "modal": { "label": "Mediagalerij" },
+    "modal": {
+      "label": "Mediagalerij"
+    },
     "facets": {
       "apply": "Toepassen",
       "clear": "Wissen",
@@ -235,7 +249,9 @@
       "suggestions": "Suggesties",
       "pages": "Pagina's"
     },
-    "cart": { "cart": "Winkelwagen" },
+    "cart": {
+      "cart": "Winkelwagen"
+    },
     "contact": {
       "form": {
         "name": "Naam",
@@ -248,7 +264,10 @@
         "title": "Contactformulier"
       }
     },
-    "404": { "title": "Pagina niet gevonden", "subtext": "404" }
+    "404": {
+      "title": "Pagina niet gevonden",
+      "subtext": "404"
+    }
   },
   "sections": {
     "header": {
@@ -287,7 +306,9 @@
       "estimated_total": "Geschat totaal",
       "new_estimated_total": "Nieuw geschat totaal"
     },
-    "footer": { "payment": "Betaalmethoden" },
+    "footer": {
+      "payment": "Betaalmethoden"
+    },
     "featured_blog": {
       "view_all": "Alles bekijken",
       "onboarding_title": "Blogpost",
@@ -297,13 +318,17 @@
       "view_all": "Alles bekijken",
       "view_all_label": "Bekijk alle producten in de collectie {{ collection_name }}"
     },
-    "collection_list": { "view_all": "Alles bekijken" },
+    "collection_list": {
+      "view_all": "Alles bekijken"
+    },
     "collection_template": {
       "title": "Collectie",
       "empty": "Geen producten gevonden",
       "use_fewer_filters_html": "Minder filters gebruiken of <a class=\"{{ class }}\" href=\"{{ link }}\">alles verwijderen</a>"
     },
-    "video": { "load_video": "Video laden: {{ description }}" },
+    "video": {
+      "load_video": "Video laden: {{ description }}"
+    },
     "slideshow": {
       "load_slide": "Dia laden",
       "previous_slideshow": "Vorige dia",
@@ -313,7 +338,9 @@
       "carousel": "Carrousel",
       "slide": "Dia"
     },
-    "page": { "title": "Paginatitel" },
+    "page": {
+      "title": "Paginatitel"
+    },
     "announcements": {
       "previous_announcement": "Vorige aankondiging",
       "next_announcement": "Volgende aankondiging",

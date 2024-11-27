@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -35,7 +44,10 @@
       "next": "Következő oldal",
       "previous": "Előző oldal"
     },
-    "search": { "search": "Keresés", "reset": "Keresőszó törlése" },
+    "search": {
+      "search": "Keresés",
+      "reset": "Keresőszó törlése"
+    },
     "cart": {
       "view": "Kosár megtekintése ({{ count }})",
       "item_added": "Betettük a terméket a kosárba",
@@ -172,7 +184,9 @@
         "price_range": "{{ minimum }} – {{ maximum }}"
       }
     },
-    "modal": { "label": "Médiatár" },
+    "modal": {
+      "label": "Médiatár"
+    },
     "facets": {
       "apply": "Alkalmaz",
       "clear": "Törlés",
@@ -235,7 +249,9 @@
       "suggestions": "Javaslatok",
       "pages": "Oldal"
     },
-    "cart": { "cart": "Kosár" },
+    "cart": {
+      "cart": "Kosár"
+    },
     "contact": {
       "form": {
         "name": "Név",
@@ -257,7 +273,10 @@
     "header": {
       "announcement": "Közlemény",
       "menu": "Menü",
-      "cart_count": { "one": "{{ count }} elem", "other": "{{ count }} elem" }
+      "cart_count": {
+        "one": "{{ count }} elem",
+        "other": "{{ count }} elem"
+      }
     },
     "cart": {
       "title": "Kosár",
@@ -287,7 +306,9 @@
       "estimated_total": "Becsült végösszeg",
       "new_estimated_total": "Új becsült végösszeg"
     },
-    "footer": { "payment": "Fizetési módok" },
+    "footer": {
+      "payment": "Fizetési módok"
+    },
     "featured_blog": {
       "view_all": "Az összes megtekintése",
       "onboarding_title": "Blogbejegyzés",
@@ -297,13 +318,17 @@
       "view_all": "Az összes megtekintése",
       "view_all_label": "Az ebben a kollekcióban szereplő összes termék megtekintése: {{ collection_name }}"
     },
-    "collection_list": { "view_all": "Az összes megtekintése" },
+    "collection_list": {
+      "view_all": "Az összes megtekintése"
+    },
     "collection_template": {
       "title": "Kollekció",
       "empty": "Nincs találat",
       "use_fewer_filters_html": "Használj kevesebb szűrőt, vagy <a class=\"{{ class }}\" href=\"{{ link }}\">távolítsd el az összeset</a>."
     },
-    "video": { "load_video": "Videó betöltése: {{ description }}" },
+    "video": {
+      "load_video": "Videó betöltése: {{ description }}"
+    },
     "slideshow": {
       "load_slide": "Dia betöltése",
       "previous_slideshow": "Előző dia",
@@ -313,7 +338,9 @@
       "carousel": "Forgótár",
       "slide": "Dia"
     },
-    "page": { "title": "Oldal címe" },
+    "page": {
+      "title": "Oldal címe"
+    },
     "announcements": {
       "previous_announcement": "Előző közlemény",
       "next_announcement": "Következő közlemény",
