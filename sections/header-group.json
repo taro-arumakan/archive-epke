@@ -14,13 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_egNw3m": {
-          "type": "announcement",
-          "settings": {
-            "text": "Black Friday開催中。Up to 20% off。",
-            "link": "shopify://collections/2024-black-friday-20-off"
-          }
-        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -38,7 +31,6 @@
         }
       },
       "block_order": [
-        "announcement_egNw3m",
         "announcement-bar-0",
         "announcement_DeM9Rw"
       ],
