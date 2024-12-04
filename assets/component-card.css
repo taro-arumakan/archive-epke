@@ -113,6 +113,7 @@
 
 .card .media {
   width: 100%;
+  aspect-ratio: 3 / 4;
 }
 
 .card__media {
