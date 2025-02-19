@@ -21,17 +21,26 @@
             "link": ""
           }
         },
+        "announcement_fFnHkx": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "韓国旧正月連休による配送停止のお知らせ：2025年1月25日(土) ~ 1月30日(木)",
+            "link": ""
+          }
+        },
         "announcement_DeM9Rw": {
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "韓国お盆休みにより9月13日(金) 午後以降のご注文件に付きましては、9月19(木)日より順次配送予定。",
-            "link": ""
+            "text": "年末年始の配送 / お問い合わせについて",
+            "link": "shopify://pages/年末年始の配送のお知らせ"
           }
         }
       },
       "block_order": [
         "announcement-bar-0",
+        "announcement_fFnHkx",
         "announcement_DeM9Rw"
       ],
       "settings": {
@@ -49,7 +58,7 @@
       "custom_css": [],
       "settings": {
         "logo_position": "middle-left",
-        "menu": "main-menu",
+        "menu": "main-menu-25ss",
         "menu_type_desktop": "dropdown",
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": false,
