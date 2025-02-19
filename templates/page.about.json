@@ -20,8 +20,9 @@
     "image_banner_LA4p6z": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/1_772022bb-2681-4016-bd65-e474fb417545.jpg",
+        "image": "shopify://shop_images/ABOUT_25ss.jpg",
         "image_overlay_opacity": 0,
+        "link": "",
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
@@ -82,6 +83,7 @@
       "settings": {
         "image": "shopify://shop_images/Web_1920_1.png",
         "image_overlay_opacity": 0,
+        "link": "",
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -124,6 +126,7 @@
       "settings": {
         "image": "shopify://shop_images/Web_1920_2.png",
         "image_overlay_opacity": 0,
+        "link": "",
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": false,

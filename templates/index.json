@@ -9,19 +9,35 @@
  */
 {
   "sections": {
+    "video_auto_mB7nLb": {
+      "type": "video-auto",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/25SS_000.mp4",
+        "video_url": "",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "link_url": "shopify://pages/spring-summer-2025"
+      }
+    },
     "slideshow_tViJH4": {
       "type": "slideshow",
       "blocks": {
         "slide_r8kwEL": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/33319.png",
+            "image": "shopify://shop_images/25ss_tb_1_small_fling_bag.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/end-of-year-sale",
+            "link": "shopify://pages/spring-summer-2025",
             "link_image": true,
             "button_style_secondary": false,
             "box_align": "middle-center",
@@ -35,12 +51,12 @@
         "slide_XYJYxD": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/33320.png",
+            "image": "shopify://shop_images/25ss_tb_2_25SS_MAIN.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/end-of-year-sale",
+            "link": "shopify://collections/25ss",
             "link_image": true,
             "button_style_secondary": false,
             "box_align": "middle-center",
@@ -54,31 +70,12 @@
         "slide_WwkjcL": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/archive_epke_winter_banner_1_1.png",
+            "image": "shopify://shop_images/25ss_tb_3_25SS_MAIN.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/sale",
-            "link_image": true,
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_iq3pz7": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/archive_epke_winter_banner_1_2.png",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/new-arrival",
+            "link": "shopify://collections/25ss",
             "link_image": true,
             "button_style_secondary": false,
             "box_align": "middle-center",
@@ -93,8 +90,7 @@
       "block_order": [
         "slide_r8kwEL",
         "slide_XYJYxD",
-        "slide_WwkjcL",
-        "slide_iq3pz7"
+        "slide_WwkjcL"
       ],
       "custom_css": [
         ".slideshow__controls {border: 0;}",
@@ -116,6 +112,7 @@
     },
     "featured_collection_D6bxeF": {
       "type": "featured-collection",
+      "disabled": true,
       "custom_css": [
         ".collection__title.title-wrapper {text-align: center;}"
       ],
@@ -147,6 +144,7 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "disabled": true,
       "custom_css": [
         ".collection__title.title-wrapper {text-align: center;}"
       ],
@@ -214,13 +212,13 @@
         ".collection__title.title-wrapper {text-align: center;}"
       ],
       "settings": {
-        "title": "2024AW COLLECTION",
+        "title": "2025SS COLLECTION",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "24aw-collection",
-        "products_to_show": 4,
+        "collection": "25ss",
+        "products_to_show": 12,
         "columns_desktop": 4,
         "full_width": true,
         "show_view_all": true,
@@ -235,7 +233,7 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 0,
+        "padding_top": 60,
         "padding_bottom": 92
       }
     },
@@ -276,12 +274,12 @@
         "row_Jpxa9R": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/001_1.png",
+            "image": "shopify://shop_images/25ss_000.png",
             "caption": "",
-            "heading": "2024 AUTUMN WINTER",
+            "heading": "2025 SPRING SUMMER",
             "text": "",
             "button_label": "View More",
-            "button_link": "shopify://pages/autumn-winter-2024"
+            "button_link": "shopify://pages/spring-summer-2025"
           }
         },
         "row_3gEhjQ": {
@@ -333,6 +331,7 @@
     }
   },
   "order": [
+    "video_auto_mB7nLb",
     "slideshow_tViJH4",
     "featured_collection_D6bxeF",
     "featured_collection",
