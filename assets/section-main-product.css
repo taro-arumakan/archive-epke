@@ -1266,6 +1266,7 @@ a.product__text {
 
 .thumbnail-list__item {
   position: relative;
+  aspect-ratio: 3 / 4;
 }
 
 .thumbnail-list__item::before {
