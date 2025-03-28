@@ -31,6 +31,45 @@
       "blocks": {
         "slide_r8kwEL": {
           "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/25ss_2nd_banner_0.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/25ss",
+            "link_image": true,
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_XjVVUp": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/25ss_2nd_banner_1.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/25ss",
+            "link_image": true,
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_MHiYUB": {
+          "type": "slide",
           "settings": {
             "image": "shopify://shop_images/25ss_tb_1_small_fling_bag.jpg",
             "heading": "",
@@ -89,6 +128,8 @@
       },
       "block_order": [
         "slide_r8kwEL",
+        "slide_XjVVUp",
+        "slide_MHiYUB",
         "slide_XYJYxD",
         "slide_WwkjcL"
       ],
