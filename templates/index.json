@@ -31,14 +31,13 @@
       "blocks": {
         "slide_r8kwEL": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/25ss_2nd_banner_0.png",
+            "image": "shopify://shop_images/200250410_giveaway.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/25ss",
+            "link": "shopify://collections/2025-ss-3rd",
             "link_image": true,
             "button_style_secondary": false,
             "box_align": "middle-center",
