@@ -130,6 +130,7 @@
         "in_cart_html": "カートに<span class=\"quantity-cart\">{{ quantity }}</span>",
         "note": "数量ルールを見る"
       },
+      "pre_order": "先行予約",
       "price": {
         "from_price_html": "{{ price }}から",
         "regular_price": "通常価格",

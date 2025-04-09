@@ -165,6 +165,7 @@
         "unavailable": "Couldn't load pickup availability",
         "refresh": "Refresh"
       },
+      "pre_order": "Pre-order",
       "price": {
         "from_price_html": "From {{ price }}",
         "regular_price": "Regular price",
