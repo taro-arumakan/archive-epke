@@ -51,6 +51,7 @@
         },
         "slide_XjVVUp": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/25ss_2nd_banner_1.png",
             "heading": "",
