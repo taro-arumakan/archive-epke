@@ -45,6 +45,7 @@
         "color_scheme": "",
         "image_size": "auto",
         "image": "shopify://shop_images/2025SS_EXHIBITION_SNAP_bccb8d24-ccfd-4fd6-97d0-efd5736ed2e6.png",
+        "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -75,12 +76,222 @@
         "text_position": "center",
         "remove_vertical_spacing": false
       }
+    },
+    "image_with_text_overlay_RzA3qE": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 3rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/MYA_4a4c537a-1b68-4707-bc5c-d885c6869157.png",
+        "image_url": "https://www.instagram.com/mya_asjah",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_EiJQ9g": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 20rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/MYA_CAPTION.png",
+        "image_url": "shopify://products/egg-tote-bag",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_37RJwT": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 3rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/MEI_TANAKA.png",
+        "image_url": "https://www.instagram.com/mei_tnk",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_V4E9gJ": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 20rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/MEI_TANAKA_CAPTION.png",
+        "image_url": "shopify://products/luv-lock-bag",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_DqEryz": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 3rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/AKI_ISHIKURO_f91c3744-309f-4c56-8f41-658d89ab4372.png",
+        "image_url": "https://www.instagram.com/aki_ishikuro",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_JFJbfH": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 20rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/AKI_CAPTION_a53353b0-9821-46cd-b7d0-c9b0403183b1.png",
+        "image_url": "shopify://products/luv-lock-duffle-bag",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_9WAjeP": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 3rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/AOI_KANAZAWA.png",
+        "image_url": "https://www.instagram.com/aoi_kanazawa",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_8BaAri": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 20rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/AOI_CAPTION.png",
+        "image_url": "shopify://products/turban-bag",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_P6Ey6N": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 3rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/LENA_HENZA_a31ee307-4b89-4501-8600-b46be1a9bb1a.png",
+        "image_url": "https://www.instagram.com/lena_henza",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_ACMwXf": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 20rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/LENA_CAPTION.png",
+        "image_url": "shopify://products/nylon-skirt-bag",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
     "main",
     "prev-next-blog-posts",
     "image_with_text_overlay_Lhx9Xz",
-    "rich_text_cxXaJR"
+    "rich_text_cxXaJR",
+    "image_with_text_overlay_RzA3qE",
+    "image_with_text_overlay_EiJQ9g",
+    "image_with_text_overlay_37RJwT",
+    "image_with_text_overlay_V4E9gJ",
+    "image_with_text_overlay_DqEryz",
+    "image_with_text_overlay_JFJbfH",
+    "image_with_text_overlay_9WAjeP",
+    "image_with_text_overlay_8BaAri",
+    "image_with_text_overlay_P6Ey6N",
+    "image_with_text_overlay_ACMwXf"
   ]
 }
