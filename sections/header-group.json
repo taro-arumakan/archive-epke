@@ -36,7 +36,7 @@
     "header": {
       "type": "header",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "enable_sticky": true,
         "hide_on_scroll": true,
         "show_separation_border": false,
@@ -47,19 +47,20 @@
         "menu": "main-menu",
         "sidebar_menu": "",
         "menu_open_trigger": "hover",
-        "menu_text_font": "heading",
+        "menu_text_font": "body",
         "enable_search": true,
         "sidebar_color_scheme": "",
-        "sidebar_text_font": "heading",
-        "sidebar_show_dividers": true,
+        "sidebar_text_font": "body",
+        "sidebar_show_dividers": false,
         "sidebar_open_second_level_menus": false,
         "layout": "logo_left_navigation_inline",
         "show_icons": true,
-        "show_country_selector": true,
+        "show_country_selector": false,
         "show_country_name": false,
-        "show_country_flag": true,
+        "show_country_flag": false,
         "show_locale_selector": false,
-        "transparent_header_text_color": "#ffffff"
+        "transparent_header_text_color": "{{ shop.brand.colors.primary[0].background }}",
+        "transparent_logo": "{{ shop.brand.logo }}"
       }
     }
   },
