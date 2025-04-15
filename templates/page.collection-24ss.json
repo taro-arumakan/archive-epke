@@ -156,6 +156,9 @@
     },
     "image_with_text_overlay_NkPtmf": {
       "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay.content-over-media.content-over-media--auto {padding-bottom: 12rem;}"
+      ],
       "settings": {
         "color_scheme": "",
         "image_size": "auto",
