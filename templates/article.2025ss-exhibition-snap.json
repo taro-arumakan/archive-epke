@@ -80,7 +80,7 @@
     "image_with_text_overlay_RzA3qE": {
       "type": "image-with-text-overlay",
       "custom_css": [
-        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 3rem;}"
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 3rem; padding-left: 20px; padding-right: 20px; }"
       ],
       "settings": {
         "color_scheme": "",
@@ -100,7 +100,7 @@
     "image_with_text_overlay_EiJQ9g": {
       "type": "image-with-text-overlay",
       "custom_css": [
-        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 20rem;}"
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 15rem; padding-left: 20px; padding-right: 20px; }"
       ],
       "settings": {
         "color_scheme": "",
@@ -120,7 +120,7 @@
     "image_with_text_overlay_37RJwT": {
       "type": "image-with-text-overlay",
       "custom_css": [
-        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 3rem;}"
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 3rem; padding-left: 20px; padding-right: 20px; }"
       ],
       "settings": {
         "color_scheme": "",
@@ -140,7 +140,7 @@
     "image_with_text_overlay_V4E9gJ": {
       "type": "image-with-text-overlay",
       "custom_css": [
-        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 20rem;}"
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 15rem; padding-left: 20px; padding-right: 20px; }"
       ],
       "settings": {
         "color_scheme": "",
@@ -160,7 +160,7 @@
     "image_with_text_overlay_DqEryz": {
       "type": "image-with-text-overlay",
       "custom_css": [
-        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 3rem;}"
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 3rem; padding-left: 20px; padding-right: 20px;}"
       ],
       "settings": {
         "color_scheme": "",
@@ -180,7 +180,7 @@
     "image_with_text_overlay_JFJbfH": {
       "type": "image-with-text-overlay",
       "custom_css": [
-        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 20rem;}"
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 15rem; padding-left: 20px; padding-right: 20px; }"
       ],
       "settings": {
         "color_scheme": "",
@@ -200,7 +200,7 @@
     "image_with_text_overlay_9WAjeP": {
       "type": "image-with-text-overlay",
       "custom_css": [
-        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 3rem;}"
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 3rem; padding-left: 20px; padding-right: 20px;}"
       ],
       "settings": {
         "color_scheme": "",
@@ -220,7 +220,7 @@
     "image_with_text_overlay_8BaAri": {
       "type": "image-with-text-overlay",
       "custom_css": [
-        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 20rem;}"
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 15rem; padding-left: 20px; padding-right: 20px; }"
       ],
       "settings": {
         "color_scheme": "",
@@ -240,7 +240,7 @@
     "image_with_text_overlay_P6Ey6N": {
       "type": "image-with-text-overlay",
       "custom_css": [
-        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 3rem;}"
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 3rem; padding-left: 20px; padding-right: 20px;}"
       ],
       "settings": {
         "color_scheme": "",
@@ -260,7 +260,7 @@
     "image_with_text_overlay_ACMwXf": {
       "type": "image-with-text-overlay",
       "custom_css": [
-        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 20rem;}"
+        "image-with-text-overlay.content-over-media.content-over-media--auto {max-width: 800px; margin: auto; padding-bottom: 15rem; padding-left: 20px; padding-right: 20px; }"
       ],
       "settings": {
         "color_scheme": "",
