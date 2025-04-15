@@ -15,7 +15,7 @@
         "video_XEjhka": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Archivepke LUMINE PU BANNER_1.mp4",
+            "video": "shopify://files/videos/2025 LUMINE PU.mp4",
             "allow_sound": false,
             "subheading": "",
             "title": "",
@@ -164,7 +164,7 @@
         "autoplay": true,
         "autoplay_pause_on_video": true,
         "cycle_speed": 5,
-        "background": "{{ shop.brand.colors.primary[0].background }}",
+        "background": "{{ shop.brand.colors.primary[0].foreground }}",
         "controls_color": "{{ shop.brand.colors.primary[0].foreground }}"
       }
     },
@@ -184,6 +184,9 @@
       },
       "block_order": [
         "collection-1"
+      ],
+      "custom_css": [
+        ".section-spacing {padding-bottom: 8rem;}"
       ],
       "settings": {
         "color_scheme": "",
@@ -214,6 +217,9 @@
       "block_order": [
         "collection_GiFE7L"
       ],
+      "custom_css": [
+        ".section-spacing {padding-bottom: 8rem;}"
+      ],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -240,13 +246,16 @@
       "block_order": [
         "image-2"
       ],
-      "custom_css": [],
+      "disabled": true,
+      "custom_css": [
+        ".section-spacing {padding-bottom: 8rem;}"
+      ],
       "settings": {
         "color_scheme": "",
         "reveal_on_scroll": true,
         "separate_section_with_border": false,
         "media_position_desktop": "after_text",
-        "media_position_mobile": "before_text",
+        "media_position_mobile": "after_text",
         "media_layout": "overlap",
         "media_alignment": "center",
         "media_alignment_offset": 0,
@@ -262,12 +271,56 @@
         "button_2_link": "",
         "button_2_style": "solid"
       }
+    },
+    "rich_text_LYNYjb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LC6WnY": {
+          "type": "heading",
+          "settings": {
+            "text": "2025 Spring Summer",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LC6WnY"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_overlay_8VtGCq": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay.content-over-media.content-over-media--auto {padding-bottom: 8rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/reupload20250220_25ss_000.png",
+        "image_url": "shopify://pages/spring-summer-2025",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
     "slideshow",
     "featured-collections",
     "featured_collections_4GUGEM",
-    "multiple-media-with-text"
+    "multiple-media-with-text",
+    "rich_text_LYNYjb",
+    "image_with_text_overlay_8VtGCq"
   ]
 }
