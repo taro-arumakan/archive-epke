@@ -37,7 +37,7 @@
           "settings": {
             "hide_sold_out_variants": false,
             "selector_style": "block",
-            "swatch_selector_style": "swatch",
+            "swatch_selector_style": "block_swatch",
             "variant_image_options": "",
             "size_chart_page": ""
           }
@@ -57,15 +57,11 @@
             "payment_button_text_color": ""
           }
         },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
         "description": {
           "type": "description",
           "settings": {
             "collapse_content": false,
-            "show_below_gallery": false
+            "show_below_gallery": true
           }
         },
         "complementary_products": {
@@ -87,7 +83,6 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "separator",
         "description",
         "complementary_products"
       ],
@@ -97,7 +92,7 @@
         "product_info_size": 35,
         "show_sticky_add_to_cart": true,
         "center_basic_info": false,
-        "desktop_media_layout": "grid",
+        "desktop_media_layout": "carousel_thumbnails_bottom",
         "desktop_media_grid_gap": 30,
         "mobile_controls": "thumbnails",
         "enable_media_autoplay": false,
