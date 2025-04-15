@@ -27,7 +27,7 @@
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
-        "remove_vertical_spacing": false,
+        "remove_vertical_spacing": true,
         "content_width": "md",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -61,7 +61,7 @@
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
-        "remove_vertical_spacing": false,
+        "remove_vertical_spacing": true,
         "content_width": "md",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -95,7 +95,7 @@
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
-        "remove_vertical_spacing": false,
+        "remove_vertical_spacing": true,
         "content_width": "md",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -129,7 +129,7 @@
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
-        "remove_vertical_spacing": false,
+        "remove_vertical_spacing": true,
         "content_width": "md",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -163,7 +163,7 @@
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
-        "remove_vertical_spacing": false,
+        "remove_vertical_spacing": true,
         "content_width": "md",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -174,7 +174,7 @@
     "video_nVeyGe": {
       "type": "video",
       "custom_css": [
-        ".content-over-media.content-over-media--md {padding-bottom: 10rem;}"
+        ".content-over-media.content-over-media--md {padding-top: 3.5rem; padding-bottom: 10rem;}"
       ],
       "settings": {
         "autoplay": true,
