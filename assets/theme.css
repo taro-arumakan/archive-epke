@@ -2193,19 +2193,23 @@ model-media model-viewer, model-media .shopify-model-viewer-ui {
 }
 
 .product-card__image {
-  object-fit: contain;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
   object-position: center;
   margin-inline: auto;
-  transition: opacity .1s ease-in-out;
+  transition-property: opacity, visibility;
+  transition-duration: .5s;
 }
 
 .product-card__image--secondary {
   width: 100%;
   height: 100%;
-  display: none;
+  opacity: 0;
+  visibility: hidden;
   position: absolute;
   inset-block-start: 0;
   inset-inline-start: 0;
+  mix-blend-mode: plus-lighter;
 }
 
 .product-card__quick-add-button {
@@ -2253,6 +2257,15 @@ model-media model-viewer, model-media .shopify-model-viewer-ui {
 
 .product-card__info .color-swatch {
   --swatch-size: 1.375rem;
+}
+
+@media screen and (pointer: fine) {
+  .product-card__image--secondary {
+    opacity: 0;
+    mix-blend-mode: plus-lighter;
+    display: block;
+    visibility: visible;
+  }
 }
 
 @media screen and (pointer: fine) {
