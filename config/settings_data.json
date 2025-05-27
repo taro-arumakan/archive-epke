@@ -25,9 +25,22 @@
     "button_letter_spacing": 18,
     "color_swatch_config": "Washing brown: #A17A5A\nSilver: #C0C0C0\nSuede brown: #8B4513\nYellow: #FFFF00\nDust mint: #B7D3C6\nMoon blue: #4A90E2\nCoated brown: #6F4E37\nOatmeal: #E3D9C6\nSUEDE LIGHT BROWN: #D2B48C\nNylon black: #1A1A1A\nMud: #70543E\nIvory: #FFFFF0\nBeige: #F5F5DC\nButter: #F3C567\nGold foil: #D4AF37\nMANGO: #FFA500\nNylon red: #FF2400\nVintage wood: #967117\nBurgundy: #800020\nVanilla: #F3E5AB\nCamel: #C19A6B\nDeep sleep: #3B4A70\nBlack: #000000\nBLACK: #000000\nMesh silver: #BFC1C2\nNylon blue: #1E90FF\nMango: #FFB347\nMy clean bed: #E8E2CF\nSky blue: #87CEEB\nLight khaki: #F0E68C\nBLUE: #0000FF\nSuede red: #A52A2A\nBlue: #0000FF\nBrown: #964B00\nVintage brown: #5D432C\nWashing black: #2B2B2B\nGold: #FFD700\nGreen: #008000\nDust black: #4B4B4B\nCherry: #DE3163\nDark brown: #654321\nSUEDE BROWN: #8B4513\nDust pink: #E6B8C3\nPistachio: #93C572\nKhaki: #C3B091\nCHERRY: #D2042D\nCream: #FFFDD0\nGolden coral: #FDBD73\nRed: #FF0000",
     "product_image_aspect_ratio": "natural",
+    "discount_mode": "percentage",
     "social_instagram": "https://www.instagram.com/archivepke_jp/",
     "favicon": "{{ shop.brand.logo }}",
     "content_for_index": [],
+    "blocks": {
+      "back-in-stock-restock-alerts-4bb73be2-b7c2-4870-949f-c528145452a3": {
+        "type": "shopify://apps/stoq/blocks/main/4bb73be2-b7c2-4870-949f-c528145452a3",
+        "disabled": false,
+        "settings": {}
+      },
+      "855628211100114053": {
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {}
+      }
+    },
     "color_schemes": {
       "scheme-1": {
         "settings": {
@@ -261,7 +274,8 @@
       "#cataldesignProduct .shipping {padding: 16px 16px 8px; background-color: rgba(18, 18, 18, 0.04); border-radius: 2px;}",
       "#cataldesignProduct .shipping h4 {margin: 0; padding-bottom: 8px; font-size: 18px; text-align: left;}",
       "#cataldesignProduct .shipping p {font-size: 13px; line-height: 1.8em;}",
-      "#cataldesignProduct .table_title {background-color: rgba(18, 18, 18, 0.04); font-weight: bold;}"
+      "#cataldesignProduct .table_title {background-color: rgba(18, 18, 18, 0.04); font-weight: bold;}",
+      ".restock-rocket-button {margin-top: 1rem; height: 44px;}"
     ]
   }
 }
