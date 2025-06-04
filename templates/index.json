@@ -42,6 +42,7 @@
         },
         "slide-1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/summers_must_have_tb.png",
             "subheading": "",
@@ -176,7 +177,7 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "summers-must-have-10-off",
+            "collection": "new-arrival",
             "products_count": 8,
             "title": "",
             "link_url": "",
